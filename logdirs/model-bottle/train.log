@@ -1,0 +1,166 @@
+Type : bottle Train [ Epoch 1/128 ], loss: 1.2896, avg_reader_cost: 0.7798 avg_batch_cost: 2.2417, avg_ips: 28.5498.
+Type : bottle Train [ Epoch 2/128 ], loss: 1.2324, avg_reader_cost: 0.6171 avg_batch_cost: 0.6857, avg_ips: 93.3376.
+Type : bottle Train [ Epoch 3/128 ], loss: 0.9867, avg_reader_cost: 0.7339 avg_batch_cost: 0.8068, avg_ips: 79.3289.
+Type : bottle Train [ Epoch 4/128 ], loss: 0.7740, avg_reader_cost: 0.7305 avg_batch_cost: 0.8009, avg_ips: 79.9075.
+Type : bottle Train [ Epoch 5/128 ], loss: 0.6115, avg_reader_cost: 0.7353 avg_batch_cost: 0.8079, avg_ips: 79.2130.
+Type : bottle Train [ Epoch 6/128 ], loss: 0.5583, avg_reader_cost: 0.7282 avg_batch_cost: 0.7989, avg_ips: 80.1108.
+Type : bottle Train [ Epoch 7/128 ], loss: 0.5213, avg_reader_cost: 0.7326 avg_batch_cost: 0.8052, avg_ips: 79.4786.
+Type : bottle Train [ Epoch 8/128 ], loss: 0.5608, avg_reader_cost: 0.7260 avg_batch_cost: 0.7987, avg_ips: 80.1253.
+Type : bottle Train [ Epoch 9/128 ], loss: 0.5299, avg_reader_cost: 0.7242 avg_batch_cost: 0.7964, avg_ips: 80.3605.
+Type : bottle Train [ Epoch 10/128 ], loss: 0.4872, avg_reader_cost: 0.7290 avg_batch_cost: 0.8000, avg_ips: 79.9988.
+loading images
+loaded 209 images
+using density estimation GaussianDensityPaddle
+Type : bottle Val [ Epoch 10/128 ] max_auc: 0.9960 roc_auc : 0.996032.
+Type : bottle Train [ Epoch 11/128 ], loss: 0.5178, avg_reader_cost: 7.5352 avg_batch_cost: 7.6086, avg_ips: 8.4115.
+Type : bottle Train [ Epoch 12/128 ], loss: 0.5007, avg_reader_cost: 0.0003 avg_batch_cost: 0.0720, avg_ips: 889.2360.
+Type : bottle Train [ Epoch 13/128 ], loss: 0.4922, avg_reader_cost: 0.0002 avg_batch_cost: 0.0692, avg_ips: 924.8932.
+Type : bottle Train [ Epoch 14/128 ], loss: 0.4863, avg_reader_cost: 0.0001 avg_batch_cost: 0.0673, avg_ips: 951.6389.
+Type : bottle Train [ Epoch 15/128 ], loss: 0.5286, avg_reader_cost: 0.0002 avg_batch_cost: 0.0670, avg_ips: 955.3237.
+Type : bottle Train [ Epoch 16/128 ], loss: 0.4763, avg_reader_cost: 0.6792 avg_batch_cost: 0.7468, avg_ips: 85.7024.
+Type : bottle Train [ Epoch 17/128 ], loss: 0.4397, avg_reader_cost: 0.8583 avg_batch_cost: 0.9258, avg_ips: 69.1274.
+Type : bottle Train [ Epoch 18/128 ], loss: 0.5126, avg_reader_cost: 0.7350 avg_batch_cost: 0.8021, avg_ips: 79.7875.
+Type : bottle Train [ Epoch 19/128 ], loss: 0.4408, avg_reader_cost: 0.7372 avg_batch_cost: 0.8022, avg_ips: 79.7820.
+Type : bottle Train [ Epoch 20/128 ], loss: 0.4378, avg_reader_cost: 0.7399 avg_batch_cost: 0.8072, avg_ips: 79.2880.
+loading images
+loaded 209 images
+using density estimation GaussianDensityPaddle
+Type : bottle Val [ Epoch 20/128 ] max_auc: 0.9960 roc_auc : 0.995238.
+Type : bottle Train [ Epoch 21/128 ], loss: 0.3844, avg_reader_cost: 6.1648 avg_batch_cost: 6.4676, avg_ips: 9.8954.
+Type : bottle Train [ Epoch 22/128 ], loss: 0.3312, avg_reader_cost: 0.0002 avg_batch_cost: 0.1268, avg_ips: 504.6652.
+Type : bottle Train [ Epoch 23/128 ], loss: 0.3200, avg_reader_cost: 0.0010 avg_batch_cost: 0.2073, avg_ips: 308.6583.
+Type : bottle Train [ Epoch 24/128 ], loss: 0.3743, avg_reader_cost: 0.0004 avg_batch_cost: 0.0986, avg_ips: 649.3626.
+Type : bottle Train [ Epoch 25/128 ], loss: 0.2587, avg_reader_cost: 0.0002 avg_batch_cost: 0.1128, avg_ips: 567.6032.
+Type : bottle Train [ Epoch 26/128 ], loss: 0.1847, avg_reader_cost: 0.6076 avg_batch_cost: 0.8201, avg_ips: 78.0356.
+Type : bottle Train [ Epoch 27/128 ], loss: 0.3280, avg_reader_cost: 0.7086 avg_batch_cost: 0.9230, avg_ips: 69.3422.
+Type : bottle Train [ Epoch 28/128 ], loss: 0.1906, avg_reader_cost: 0.7216 avg_batch_cost: 0.9362, avg_ips: 68.3615.
+Type : bottle Train [ Epoch 29/128 ], loss: 0.1666, avg_reader_cost: 0.7796 avg_batch_cost: 0.9931, avg_ips: 64.4428.
+Type : bottle Train [ Epoch 30/128 ], loss: 0.1891, avg_reader_cost: 0.7205 avg_batch_cost: 0.9316, avg_ips: 68.7004.
+loading images
+loaded 209 images
+using density estimation GaussianDensityPaddle
+Type : bottle Val [ Epoch 30/128 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : bottle Train [ Epoch 31/128 ], loss: 0.2275, avg_reader_cost: 6.4570 avg_batch_cost: 6.6720, avg_ips: 9.5923.
+Type : bottle Train [ Epoch 32/128 ], loss: 0.1476, avg_reader_cost: 0.0002 avg_batch_cost: 0.1538, avg_ips: 416.1493.
+Type : bottle Train [ Epoch 33/128 ], loss: 0.1513, avg_reader_cost: 0.0002 avg_batch_cost: 0.1192, avg_ips: 536.9353.
+Type : bottle Train [ Epoch 34/128 ], loss: 0.1605, avg_reader_cost: 0.0003 avg_batch_cost: 0.1072, avg_ips: 597.1536.
+Type : bottle Train [ Epoch 35/128 ], loss: 0.1629, avg_reader_cost: 0.0004 avg_batch_cost: 0.1152, avg_ips: 555.5220.
+Type : bottle Train [ Epoch 36/128 ], loss: 0.1529, avg_reader_cost: 0.6223 avg_batch_cost: 0.8328, avg_ips: 76.8458.
+Type : bottle Train [ Epoch 37/128 ], loss: 0.0723, avg_reader_cost: 0.7133 avg_batch_cost: 0.8430, avg_ips: 75.9217.
+Type : bottle Train [ Epoch 38/128 ], loss: 0.1838, avg_reader_cost: 0.7142 avg_batch_cost: 0.9254, avg_ips: 69.1579.
+Type : bottle Train [ Epoch 39/128 ], loss: 0.1329, avg_reader_cost: 0.7176 avg_batch_cost: 0.9286, avg_ips: 68.9226.
+Type : bottle Train [ Epoch 40/128 ], loss: 0.1647, avg_reader_cost: 0.7403 avg_batch_cost: 0.9552, avg_ips: 67.0012.
+loading images
+loaded 209 images
+using density estimation GaussianDensityPaddle
+Type : bottle Val [ Epoch 40/128 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : bottle Train [ Epoch 41/128 ], loss: 0.1845, avg_reader_cost: 6.4878 avg_batch_cost: 6.7000, avg_ips: 9.5523.
+Type : bottle Train [ Epoch 42/128 ], loss: 0.1313, avg_reader_cost: 0.0002 avg_batch_cost: 0.1323, avg_ips: 483.9238.
+Type : bottle Train [ Epoch 43/128 ], loss: 0.1116, avg_reader_cost: 0.0003 avg_batch_cost: 0.1006, avg_ips: 636.4152.
+Type : bottle Train [ Epoch 44/128 ], loss: 0.1954, avg_reader_cost: 0.0003 avg_batch_cost: 0.1201, avg_ips: 532.8987.
+Type : bottle Train [ Epoch 45/128 ], loss: 0.1745, avg_reader_cost: 0.0003 avg_batch_cost: 0.0797, avg_ips: 802.6656.
+Type : bottle Train [ Epoch 46/128 ], loss: 0.1740, avg_reader_cost: 0.6207 avg_batch_cost: 0.6880, avg_ips: 93.0187.
+Type : bottle Train [ Epoch 47/128 ], loss: 0.1315, avg_reader_cost: 0.7584 avg_batch_cost: 0.9697, avg_ips: 65.9980.
+Type : bottle Train [ Epoch 48/128 ], loss: 0.0923, avg_reader_cost: 0.7279 avg_batch_cost: 0.8745, avg_ips: 73.1860.
+Type : bottle Train [ Epoch 49/128 ], loss: 0.1239, avg_reader_cost: 0.7263 avg_batch_cost: 0.9380, avg_ips: 68.2331.
+Type : bottle Train [ Epoch 50/128 ], loss: 0.1175, avg_reader_cost: 0.7341 avg_batch_cost: 0.8903, avg_ips: 71.8839.
+loading images
+loaded 209 images
+using density estimation GaussianDensityPaddle
+Type : bottle Val [ Epoch 50/128 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : bottle Train [ Epoch 51/128 ], loss: 0.1090, avg_reader_cost: 6.6635 avg_batch_cost: 6.8753, avg_ips: 9.3086.
+Type : bottle Train [ Epoch 52/128 ], loss: 0.1473, avg_reader_cost: 0.0002 avg_batch_cost: 0.1564, avg_ips: 409.1611.
+Type : bottle Train [ Epoch 53/128 ], loss: 0.1454, avg_reader_cost: 0.0012 avg_batch_cost: 0.2104, avg_ips: 304.2413.
+Type : bottle Train [ Epoch 54/128 ], loss: 0.0682, avg_reader_cost: 0.0003 avg_batch_cost: 0.2111, avg_ips: 303.1405.
+Type : bottle Train [ Epoch 55/128 ], loss: 0.0919, avg_reader_cost: 0.0006 avg_batch_cost: 0.2142, avg_ips: 298.7532.
+Type : bottle Train [ Epoch 56/128 ], loss: 0.0808, avg_reader_cost: 0.6142 avg_batch_cost: 0.8266, avg_ips: 77.4294.
+Type : bottle Train [ Epoch 57/128 ], loss: 0.1080, avg_reader_cost: 0.7142 avg_batch_cost: 0.9276, avg_ips: 68.9990.
+Type : bottle Train [ Epoch 58/128 ], loss: 0.0992, avg_reader_cost: 0.7158 avg_batch_cost: 0.9129, avg_ips: 70.1086.
+Type : bottle Train [ Epoch 59/128 ], loss: 0.1612, avg_reader_cost: 0.7214 avg_batch_cost: 0.9348, avg_ips: 68.4657.
+Type : bottle Train [ Epoch 60/128 ], loss: 0.1980, avg_reader_cost: 0.7144 avg_batch_cost: 0.9282, avg_ips: 68.9492.
+loading images
+loaded 209 images
+using density estimation GaussianDensityPaddle
+Type : bottle Val [ Epoch 60/128 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : bottle Train [ Epoch 61/128 ], loss: 0.0988, avg_reader_cost: 6.5261 avg_batch_cost: 6.7597, avg_ips: 9.4679.
+Type : bottle Train [ Epoch 62/128 ], loss: 0.0988, avg_reader_cost: 0.0002 avg_batch_cost: 0.2151, avg_ips: 297.5129.
+Type : bottle Train [ Epoch 63/128 ], loss: 0.1666, avg_reader_cost: 0.0003 avg_batch_cost: 0.2088, avg_ips: 306.5087.
+Type : bottle Train [ Epoch 64/128 ], loss: 0.2839, avg_reader_cost: 0.0006 avg_batch_cost: 0.2164, avg_ips: 295.7582.
+Type : bottle Train [ Epoch 65/128 ], loss: 0.1762, avg_reader_cost: 0.0003 avg_batch_cost: 0.2108, avg_ips: 303.5515.
+Type : bottle Train [ Epoch 66/128 ], loss: 0.1482, avg_reader_cost: 0.6176 avg_batch_cost: 0.8309, avg_ips: 77.0239.
+Type : bottle Train [ Epoch 67/128 ], loss: 0.1423, avg_reader_cost: 0.7196 avg_batch_cost: 0.9257, avg_ips: 69.1384.
+Type : bottle Train [ Epoch 68/128 ], loss: 0.1263, avg_reader_cost: 0.7167 avg_batch_cost: 0.9306, avg_ips: 68.7755.
+Type : bottle Train [ Epoch 69/128 ], loss: 0.1591, avg_reader_cost: 0.7176 avg_batch_cost: 0.9271, avg_ips: 69.0331.
+Type : bottle Train [ Epoch 70/128 ], loss: 0.1173, avg_reader_cost: 0.7139 avg_batch_cost: 0.9219, avg_ips: 69.4208.
+loading images
+loaded 209 images
+using density estimation GaussianDensityPaddle
+Type : bottle Val [ Epoch 70/128 ] max_auc: 1.0000 roc_auc : 0.998413.
+Type : bottle Train [ Epoch 71/128 ], loss: 0.1181, avg_reader_cost: 6.0649 avg_batch_cost: 6.4211, avg_ips: 9.9672.
+Type : bottle Train [ Epoch 72/128 ], loss: 0.1493, avg_reader_cost: 0.0004 avg_batch_cost: 0.2096, avg_ips: 305.2929.
+Type : bottle Train [ Epoch 73/128 ], loss: 0.1124, avg_reader_cost: 0.0002 avg_batch_cost: 0.2148, avg_ips: 297.9045.
+Type : bottle Train [ Epoch 74/128 ], loss: 0.1177, avg_reader_cost: 0.0010 avg_batch_cost: 0.2143, avg_ips: 298.6834.
+Type : bottle Train [ Epoch 75/128 ], loss: 0.1028, avg_reader_cost: 0.0002 avg_batch_cost: 0.1313, avg_ips: 487.2786.
+Type : bottle Train [ Epoch 76/128 ], loss: 0.0901, avg_reader_cost: 0.6125 avg_batch_cost: 0.8254, avg_ips: 77.5362.
+Type : bottle Train [ Epoch 77/128 ], loss: 0.1285, avg_reader_cost: 0.7177 avg_batch_cost: 0.9330, avg_ips: 68.5988.
+Type : bottle Train [ Epoch 78/128 ], loss: 0.0933, avg_reader_cost: 0.7186 avg_batch_cost: 0.9269, avg_ips: 69.0504.
+Type : bottle Train [ Epoch 79/128 ], loss: 0.1297, avg_reader_cost: 0.7149 avg_batch_cost: 0.9268, avg_ips: 69.0572.
+Type : bottle Train [ Epoch 80/128 ], loss: 0.1223, avg_reader_cost: 0.7441 avg_batch_cost: 0.9586, avg_ips: 66.7614.
+loading images
+loaded 209 images
+using density estimation GaussianDensityPaddle
+Type : bottle Val [ Epoch 80/128 ] max_auc: 1.0000 roc_auc : 1.000000.
+Type : bottle Train [ Epoch 81/128 ], loss: 0.0647, avg_reader_cost: 6.6064 avg_batch_cost: 6.8150, avg_ips: 9.3910.
+Type : bottle Train [ Epoch 82/128 ], loss: 0.1318, avg_reader_cost: 0.0002 avg_batch_cost: 0.1306, avg_ips: 489.9092.
+Type : bottle Train [ Epoch 83/128 ], loss: 0.0915, avg_reader_cost: 0.0010 avg_batch_cost: 0.1413, avg_ips: 453.0847.
+Type : bottle Train [ Epoch 84/128 ], loss: 0.1395, avg_reader_cost: 0.0002 avg_batch_cost: 0.1312, avg_ips: 487.8631.
+Type : bottle Train [ Epoch 85/128 ], loss: 0.0681, avg_reader_cost: 0.0010 avg_batch_cost: 0.2068, avg_ips: 309.4735.
+Type : bottle Train [ Epoch 86/128 ], loss: 0.1190, avg_reader_cost: 0.6202 avg_batch_cost: 0.8340, avg_ips: 76.7373.
+fail to perform transform [<paddle.vision.transforms.transforms.ToTensor object at 0x7f060c7e8110>] with error: We only support 'to_tensor()' in dynamic graph mode, please call 'paddle.disable_static()' to enter dynamic graph mode. and stack:
+Traceback (most recent call last):
+  File "/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/vision/transforms/transforms.py", line 113, in __call__
+    data = f(data)
+  File "/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/vision/transforms/transforms.py", line 269, in __call__
+    outputs.append(apply_func(inputs[i]))
+  File "/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/vision/transforms/transforms.py", line 355, in _apply_image
+    return F.to_tensor(img, self.data_format)
+  File "/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/vision/transforms/functional.py", line 82, in to_tensor
+    return F_pil.to_tensor(pic, data_format)
+  File "/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/vision/transforms/functional_pil.py", line 88, in to_tensor
+    img = paddle.to_tensor(np.array(pic, copy=False))
+  File "<decorator-gen-163>", line 2, in to_tensor
+  File "/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/fluid/wrapped_decorator.py", line 25, in __impl__
+    return wrapped_func(*args, **kwargs)
+  File "/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/fluid/framework.py", line 433, in __impl__
+    ), "We only support '%s()' in dynamic graph mode, please call 'paddle.disable_static()' to enter dynamic graph mode." % func.__name__
+AssertionError: We only support 'to_tensor()' in dynamic graph mode, please call 'paddle.disable_static()' to enter dynamic graph mode.
+
+fail to perform transform [<cutpaste.CutPaste3Way object at 0x7f060c7e8310>] with error: We only support 'to_tensor()' in dynamic graph mode, please call 'paddle.disable_static()' to enter dynamic graph mode. and stack:
+Traceback (most recent call last):
+  File "/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/vision/transforms/transforms.py", line 113, in __call__
+    data = f(data)
+  File "/home/aistudio/work/Paddle-Cutpaste/cutpaste.py", line 151, in __call__
+    org, cutpaste_normal = self.normal(img)
+  File "/home/aistudio/work/Paddle-Cutpaste/cutpaste.py", line 81, in __call__
+    return super().__call__(img, augmented)
+  File "/home/aistudio/work/Paddle-Cutpaste/cutpaste.py", line 32, in __call__
+    org_img = self.transform(org_img)
+  File "/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/vision/transforms/transforms.py", line 118, in __call__
+    raise e
+  File "/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/vision/transforms/transforms.py", line 113, in __call__
+    data = f(data)
+  File "/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/vision/transforms/transforms.py", line 269, in __call__
+    outputs.append(apply_func(inputs[i]))
+  File "/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/vision/transforms/transforms.py", line 355, in _apply_image
+    return F.to_tensor(img, self.data_format)
+  File "/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/vision/transforms/functional.py", line 82, in to_tensor
+    return F_pil.to_tensor(pic, data_format)
+  File "/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/vision/transforms/functional_pil.py", line 88, in to_tensor
+    img = paddle.to_tensor(np.array(pic, copy=False))
+  File "<decorator-gen-163>", line 2, in to_tensor
+  File "/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/fluid/wrapped_decorator.py", line 25, in __impl__
+    return wrapped_func(*args, **kwargs)
+  File "/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/fluid/framework.py", line 433, in __impl__
+    ), "We only support '%s()' in dynamic graph mode, please call 'paddle.disable_static()' to enter dynamic graph mode." % func.__name__
+AssertionError: We only support 'to_tensor()' in dynamic graph mode, please call 'paddle.disable_static()' to enter dynamic graph mode.
+

@@ -1,0 +1,176 @@
+Type : cable Train [ Epoch 1/128 ], loss: 1.4349, avg_reader_cost: 1.2876 avg_batch_cost: 1.3743, avg_ips: 46.5708.
+Type : cable Train [ Epoch 2/128 ], loss: 1.4228, avg_reader_cost: 1.1318 avg_batch_cost: 1.2096, avg_ips: 52.9118.
+Type : cable Train [ Epoch 3/128 ], loss: 1.1704, avg_reader_cost: 1.1568 avg_batch_cost: 1.2317, avg_ips: 51.9602.
+Type : cable Train [ Epoch 4/128 ], loss: 0.9373, avg_reader_cost: 0.8165 avg_batch_cost: 0.8853, avg_ips: 72.2927.
+Type : cable Train [ Epoch 5/128 ], loss: 0.8877, avg_reader_cost: 0.8162 avg_batch_cost: 0.8823, avg_ips: 72.5399.
+Type : cable Train [ Epoch 6/128 ], loss: 0.7722, avg_reader_cost: 0.8211 avg_batch_cost: 0.8902, avg_ips: 71.8910.
+Type : cable Train [ Epoch 7/128 ], loss: 0.7672, avg_reader_cost: 0.8304 avg_batch_cost: 0.8994, avg_ips: 71.1575.
+Type : cable Train [ Epoch 8/128 ], loss: 0.7113, avg_reader_cost: 0.8380 avg_batch_cost: 0.9045, avg_ips: 70.7568.
+Type : cable Train [ Epoch 9/128 ], loss: 0.7439, avg_reader_cost: 0.8291 avg_batch_cost: 0.8950, avg_ips: 71.5058.
+Type : cable Train [ Epoch 10/128 ], loss: 0.6666, avg_reader_cost: 0.8382 avg_batch_cost: 0.9054, avg_ips: 70.6867.
+loading images
+loaded 224 images
+using density estimation GaussianDensityPaddle
+Type : cable Val [ Epoch 10/128 ] max_auc: 0.9123 roc_auc : 0.912294.
+Type : cable Train [ Epoch 11/128 ], loss: 0.7912, avg_reader_cost: 13.6488 avg_batch_cost: 13.7207, avg_ips: 4.6645.
+Type : cable Train [ Epoch 12/128 ], loss: 0.7366, avg_reader_cost: 0.0001 avg_batch_cost: 0.0654, avg_ips: 978.3881.
+Type : cable Train [ Epoch 13/128 ], loss: 0.7785, avg_reader_cost: 0.0006 avg_batch_cost: 0.0658, avg_ips: 973.3575.
+Type : cable Train [ Epoch 14/128 ], loss: 0.7442, avg_reader_cost: 0.0003 avg_batch_cost: 0.0663, avg_ips: 964.7449.
+Type : cable Train [ Epoch 15/128 ], loss: 0.6948, avg_reader_cost: 0.0002 avg_batch_cost: 0.0659, avg_ips: 971.2339.
+Type : cable Train [ Epoch 16/128 ], loss: 0.7279, avg_reader_cost: 0.7636 avg_batch_cost: 0.8309, avg_ips: 77.0214.
+Type : cable Train [ Epoch 17/128 ], loss: 0.6108, avg_reader_cost: 0.8329 avg_batch_cost: 0.8977, avg_ips: 71.2899.
+Type : cable Train [ Epoch 18/128 ], loss: 0.6641, avg_reader_cost: 0.8293 avg_batch_cost: 0.8944, avg_ips: 71.5576.
+Type : cable Train [ Epoch 19/128 ], loss: 0.6469, avg_reader_cost: 0.8247 avg_batch_cost: 0.8908, avg_ips: 71.8450.
+Type : cable Train [ Epoch 20/128 ], loss: 0.6508, avg_reader_cost: 0.8233 avg_batch_cost: 0.8894, avg_ips: 71.9557.
+loading images
+loaded 224 images
+using density estimation GaussianDensityPaddle
+Type : cable Val [ Epoch 20/128 ] max_auc: 0.9123 roc_auc : 0.889243.
+Type : cable Train [ Epoch 21/128 ], loss: 0.6368, avg_reader_cost: 13.4912 avg_batch_cost: 13.8091, avg_ips: 4.6346.
+Type : cable Train [ Epoch 22/128 ], loss: 0.5890, avg_reader_cost: 0.0002 avg_batch_cost: 0.1117, avg_ips: 573.1294.
+Type : cable Train [ Epoch 23/128 ], loss: 0.5379, avg_reader_cost: 0.0011 avg_batch_cost: 0.1313, avg_ips: 487.4282.
+Type : cable Train [ Epoch 24/128 ], loss: 0.4928, avg_reader_cost: 0.0002 avg_batch_cost: 0.1543, avg_ips: 414.8547.
+Type : cable Train [ Epoch 25/128 ], loss: 0.4382, avg_reader_cost: 0.0011 avg_batch_cost: 0.1675, avg_ips: 382.1733.
+Type : cable Train [ Epoch 26/128 ], loss: 0.4097, avg_reader_cost: 0.6920 avg_batch_cost: 0.9050, avg_ips: 70.7201.
+Type : cable Train [ Epoch 27/128 ], loss: 0.3962, avg_reader_cost: 0.8201 avg_batch_cost: 1.0344, avg_ips: 61.8709.
+Type : cable Train [ Epoch 28/128 ], loss: 0.3177, avg_reader_cost: 0.8127 avg_batch_cost: 1.0267, avg_ips: 62.3332.
+Type : cable Train [ Epoch 29/128 ], loss: 0.3482, avg_reader_cost: 0.8114 avg_batch_cost: 1.0276, avg_ips: 62.2831.
+Type : cable Train [ Epoch 30/128 ], loss: 0.2953, avg_reader_cost: 0.8136 avg_batch_cost: 1.0270, avg_ips: 62.3172.
+loading images
+loaded 224 images
+using density estimation GaussianDensityPaddle
+Type : cable Val [ Epoch 30/128 ] max_auc: 0.9473 roc_auc : 0.947339.
+Type : cable Train [ Epoch 31/128 ], loss: 0.2966, avg_reader_cost: 13.7800 avg_batch_cost: 14.0170, avg_ips: 4.5659.
+Type : cable Train [ Epoch 32/128 ], loss: 0.2828, avg_reader_cost: 0.0002 avg_batch_cost: 0.2128, avg_ips: 300.7603.
+Type : cable Train [ Epoch 33/128 ], loss: 0.3241, avg_reader_cost: 0.0002 avg_batch_cost: 0.2146, avg_ips: 298.2268.
+Type : cable Train [ Epoch 34/128 ], loss: 0.2629, avg_reader_cost: 0.0002 avg_batch_cost: 0.2115, avg_ips: 302.6657.
+Type : cable Train [ Epoch 35/128 ], loss: 0.2906, avg_reader_cost: 0.0002 avg_batch_cost: 0.2126, avg_ips: 301.0105.
+Type : cable Train [ Epoch 36/128 ], loss: 0.2656, avg_reader_cost: 0.7001 avg_batch_cost: 0.9161, avg_ips: 69.8623.
+Type : cable Train [ Epoch 37/128 ], loss: 0.2445, avg_reader_cost: 0.8157 avg_batch_cost: 1.0320, avg_ips: 62.0175.
+Type : cable Train [ Epoch 38/128 ], loss: 0.2326, avg_reader_cost: 0.8218 avg_batch_cost: 1.0385, avg_ips: 61.6300.
+Type : cable Train [ Epoch 39/128 ], loss: 0.2338, avg_reader_cost: 0.8156 avg_batch_cost: 1.0319, avg_ips: 62.0214.
+Type : cable Train [ Epoch 40/128 ], loss: 0.2716, avg_reader_cost: 0.8127 avg_batch_cost: 1.0256, avg_ips: 62.4044.
+loading images
+loaded 224 images
+using density estimation GaussianDensityPaddle
+Type : cable Val [ Epoch 40/128 ] max_auc: 0.9473 roc_auc : 0.915855.
+Type : cable Train [ Epoch 41/128 ], loss: 0.1789, avg_reader_cost: 14.4162 avg_batch_cost: 14.5916, avg_ips: 4.3861.
+Type : cable Train [ Epoch 42/128 ], loss: 0.1478, avg_reader_cost: 0.0004 avg_batch_cost: 0.1695, avg_ips: 377.5448.
+Type : cable Train [ Epoch 43/128 ], loss: 0.1350, avg_reader_cost: 0.0004 avg_batch_cost: 0.1329, avg_ips: 481.6956.
+Type : cable Train [ Epoch 44/128 ], loss: 0.1953, avg_reader_cost: 0.0003 avg_batch_cost: 0.2075, avg_ips: 308.4412.
+Type : cable Train [ Epoch 45/128 ], loss: 0.1303, avg_reader_cost: 0.0004 avg_batch_cost: 0.1075, avg_ips: 595.2402.
+Type : cable Train [ Epoch 46/128 ], loss: 0.1463, avg_reader_cost: 0.6991 avg_batch_cost: 0.7661, avg_ips: 83.5435.
+Type : cable Train [ Epoch 47/128 ], loss: 0.1154, avg_reader_cost: 0.8541 avg_batch_cost: 1.0674, avg_ips: 59.9606.
+Type : cable Train [ Epoch 48/128 ], loss: 0.1638, avg_reader_cost: 0.8104 avg_batch_cost: 1.0226, avg_ips: 62.5866.
+Type : cable Train [ Epoch 49/128 ], loss: 0.1266, avg_reader_cost: 0.8111 avg_batch_cost: 1.0242, avg_ips: 62.4881.
+Type : cable Train [ Epoch 50/128 ], loss: 0.1696, avg_reader_cost: 0.8099 avg_batch_cost: 1.0231, avg_ips: 62.5533.
+loading images
+loaded 224 images
+using density estimation GaussianDensityPaddle
+Type : cable Val [ Epoch 50/128 ] max_auc: 0.9473 roc_auc : 0.896364.
+Type : cable Train [ Epoch 51/128 ], loss: 0.1340, avg_reader_cost: 13.4603 avg_batch_cost: 13.6331, avg_ips: 4.6945.
+Type : cable Train [ Epoch 52/128 ], loss: 0.1541, avg_reader_cost: 0.0012 avg_batch_cost: 0.1134, avg_ips: 564.1368.
+Type : cable Train [ Epoch 53/128 ], loss: 0.1529, avg_reader_cost: 0.0003 avg_batch_cost: 0.1406, avg_ips: 455.0324.
+Type : cable Train [ Epoch 54/128 ], loss: 0.1171, avg_reader_cost: 0.0002 avg_batch_cost: 0.1275, avg_ips: 501.8423.
+Type : cable Train [ Epoch 55/128 ], loss: 0.1587, avg_reader_cost: 0.0004 avg_batch_cost: 0.1109, avg_ips: 576.9307.
+Type : cable Train [ Epoch 56/128 ], loss: 0.1288, avg_reader_cost: 0.7014 avg_batch_cost: 0.9135, avg_ips: 70.0587.
+Type : cable Train [ Epoch 57/128 ], loss: 0.0881, avg_reader_cost: 0.8076 avg_batch_cost: 1.0216, avg_ips: 62.6440.
+Type : cable Train [ Epoch 58/128 ], loss: 0.0696, avg_reader_cost: 0.8171 avg_batch_cost: 1.0326, avg_ips: 61.9821.
+Type : cable Train [ Epoch 59/128 ], loss: 0.1501, avg_reader_cost: 0.8170 avg_batch_cost: 1.0312, avg_ips: 62.0629.
+Type : cable Train [ Epoch 60/128 ], loss: 0.2417, avg_reader_cost: 0.8168 avg_batch_cost: 1.0336, avg_ips: 61.9191.
+loading images
+loaded 224 images
+using density estimation GaussianDensityPaddle
+Type : cable Val [ Epoch 60/128 ] max_auc: 0.9473 roc_auc : 0.940780.
+Type : cable Train [ Epoch 61/128 ], loss: 0.1136, avg_reader_cost: 13.5549 avg_batch_cost: 13.8332, avg_ips: 4.6266.
+Type : cable Train [ Epoch 62/128 ], loss: 0.0996, avg_reader_cost: 0.0003 avg_batch_cost: 0.2126, avg_ips: 301.0041.
+Type : cable Train [ Epoch 63/128 ], loss: 0.1250, avg_reader_cost: 0.0011 avg_batch_cost: 0.2144, avg_ips: 298.5004.
+Type : cable Train [ Epoch 64/128 ], loss: 0.0969, avg_reader_cost: 0.0002 avg_batch_cost: 0.2134, avg_ips: 299.8374.
+Type : cable Train [ Epoch 65/128 ], loss: 0.1033, avg_reader_cost: 0.0003 avg_batch_cost: 0.2137, avg_ips: 299.4461.
+Type : cable Train [ Epoch 66/128 ], loss: 0.1311, avg_reader_cost: 0.7090 avg_batch_cost: 0.9205, avg_ips: 69.5238.
+Type : cable Train [ Epoch 67/128 ], loss: 0.1373, avg_reader_cost: 0.8204 avg_batch_cost: 1.0387, avg_ips: 61.6163.
+Type : cable Train [ Epoch 68/128 ], loss: 0.1488, avg_reader_cost: 0.8128 avg_batch_cost: 1.0235, avg_ips: 62.5282.
+Type : cable Train [ Epoch 69/128 ], loss: 0.1259, avg_reader_cost: 0.8148 avg_batch_cost: 1.0297, avg_ips: 62.1538.
+Type : cable Train [ Epoch 70/128 ], loss: 0.1113, avg_reader_cost: 0.8223 avg_batch_cost: 1.0345, avg_ips: 61.8653.
+loading images
+loaded 224 images
+using density estimation GaussianDensityPaddle
+Type : cable Val [ Epoch 70/128 ] max_auc: 0.9473 roc_auc : 0.912294.
+Type : cable Train [ Epoch 71/128 ], loss: 0.1207, avg_reader_cost: 13.6185 avg_batch_cost: 13.8803, avg_ips: 4.6109.
+Type : cable Train [ Epoch 72/128 ], loss: 0.0776, avg_reader_cost: 0.0002 avg_batch_cost: 0.2096, avg_ips: 305.2984.
+Type : cable Train [ Epoch 73/128 ], loss: 0.1088, avg_reader_cost: 0.0002 avg_batch_cost: 0.1307, avg_ips: 489.5607.
+Type : cable Train [ Epoch 74/128 ], loss: 0.1239, avg_reader_cost: 0.0003 avg_batch_cost: 0.1584, avg_ips: 403.9156.
+Type : cable Train [ Epoch 75/128 ], loss: 0.1194, avg_reader_cost: 0.0011 avg_batch_cost: 0.1332, avg_ips: 480.3380.
+Type : cable Train [ Epoch 76/128 ], loss: 0.1066, avg_reader_cost: 0.7072 avg_batch_cost: 0.9248, avg_ips: 69.2054.
+Type : cable Train [ Epoch 77/128 ], loss: 0.1092, avg_reader_cost: 0.8296 avg_batch_cost: 1.0461, avg_ips: 61.1817.
+Type : cable Train [ Epoch 78/128 ], loss: 0.1566, avg_reader_cost: 0.8479 avg_batch_cost: 1.0626, avg_ips: 60.2296.
+Type : cable Train [ Epoch 79/128 ], loss: 0.1039, avg_reader_cost: 0.8284 avg_batch_cost: 1.0429, avg_ips: 61.3659.
+Type : cable Train [ Epoch 80/128 ], loss: 0.1596, avg_reader_cost: 0.8134 avg_batch_cost: 1.0275, avg_ips: 62.2874.
+loading images
+loaded 224 images
+using density estimation GaussianDensityPaddle
+Type : cable Val [ Epoch 80/128 ] max_auc: 0.9473 roc_auc : 0.920727.
+Type : cable Train [ Epoch 81/128 ], loss: 0.0337, avg_reader_cost: 13.5071 avg_batch_cost: 13.7846, avg_ips: 4.6429.
+Type : cable Train [ Epoch 82/128 ], loss: 0.1718, avg_reader_cost: 0.0002 avg_batch_cost: 0.2168, avg_ips: 295.1877.
+Type : cable Train [ Epoch 83/128 ], loss: 0.0505, avg_reader_cost: 0.0002 avg_batch_cost: 0.2131, avg_ips: 300.3107.
+Type : cable Train [ Epoch 84/128 ], loss: 0.1157, avg_reader_cost: 0.0002 avg_batch_cost: 0.2145, avg_ips: 298.2991.
+Type : cable Train [ Epoch 85/128 ], loss: 0.0956, avg_reader_cost: 0.0003 avg_batch_cost: 0.2136, avg_ips: 299.6052.
+Type : cable Train [ Epoch 86/128 ], loss: 0.1117, avg_reader_cost: 0.7178 avg_batch_cost: 0.9316, avg_ips: 68.6995.
+Type : cable Train [ Epoch 87/128 ], loss: 0.0653, avg_reader_cost: 0.8211 avg_batch_cost: 1.0361, avg_ips: 61.7714.
+Type : cable Train [ Epoch 88/128 ], loss: 0.0670, avg_reader_cost: 0.8218 avg_batch_cost: 1.0363, avg_ips: 61.7590.
+Type : cable Train [ Epoch 89/128 ], loss: 0.1142, avg_reader_cost: 0.8204 avg_batch_cost: 1.0294, avg_ips: 62.1712.
+Type : cable Train [ Epoch 90/128 ], loss: 0.0982, avg_reader_cost: 0.8250 avg_batch_cost: 1.0396, avg_ips: 61.5635.
+loading images
+loaded 224 images
+using density estimation GaussianDensityPaddle
+Type : cable Val [ Epoch 90/128 ] max_auc: 0.9473 roc_auc : 0.928223.
+Type : cable Train [ Epoch 91/128 ], loss: 0.0899, avg_reader_cost: 13.0904 avg_batch_cost: 13.1956, avg_ips: 4.8501.
+Type : cable Train [ Epoch 92/128 ], loss: 0.1123, avg_reader_cost: 0.0002 avg_batch_cost: 0.0670, avg_ips: 955.0858.
+Type : cable Train [ Epoch 93/128 ], loss: 0.1058, avg_reader_cost: 0.8458 avg_batch_cost: 1.0587, avg_ips: 60.4526.
+Type : cable Train [ Epoch 94/128 ], loss: 0.1135, avg_reader_cost: 0.8254 avg_batch_cost: 1.0418, avg_ips: 61.4310.
+Type : cable Train [ Epoch 95/128 ], loss: 0.0614, avg_reader_cost: 0.8173 avg_batch_cost: 1.0314, avg_ips: 62.0505.
+Type : cable Train [ Epoch 96/128 ], loss: 0.1093, avg_reader_cost: 0.8219 avg_batch_cost: 1.0382, avg_ips: 61.6430.
+Type : cable Train [ Epoch 97/128 ], loss: 0.1048, avg_reader_cost: 0.8221 avg_batch_cost: 1.0377, avg_ips: 61.6727.
+Type : cable Train [ Epoch 98/128 ], loss: 0.0955, avg_reader_cost: 0.8164 avg_batch_cost: 1.0313, avg_ips: 62.0593.
+Type : cable Train [ Epoch 99/128 ], loss: 0.1004, avg_reader_cost: 0.8248 avg_batch_cost: 1.0396, avg_ips: 61.5603.
+Type : cable Train [ Epoch 100/128 ], loss: 0.0253, avg_reader_cost: 0.8215 avg_batch_cost: 1.0334, avg_ips: 61.9330.
+loading images
+loaded 224 images
+using density estimation GaussianDensityPaddle
+Type : cable Val [ Epoch 100/128 ] max_auc: 0.9473 roc_auc : 0.917354.
+Type : cable Train [ Epoch 101/128 ], loss: 0.1003, avg_reader_cost: 13.5466 avg_batch_cost: 13.8492, avg_ips: 4.6212.
+Type : cable Train [ Epoch 102/128 ], loss: 0.0347, avg_reader_cost: 0.0003 avg_batch_cost: 0.1131, avg_ips: 565.8396.
+Type : cable Train [ Epoch 103/128 ], loss: 0.0451, avg_reader_cost: 0.0004 avg_batch_cost: 0.1248, avg_ips: 512.7619.
+Type : cable Train [ Epoch 104/128 ], loss: 0.0361, avg_reader_cost: 0.0002 avg_batch_cost: 0.1549, avg_ips: 413.2975.
+Type : cable Train [ Epoch 105/128 ], loss: 0.0504, avg_reader_cost: 0.0011 avg_batch_cost: 0.1550, avg_ips: 412.8912.
+Type : cable Train [ Epoch 106/128 ], loss: 0.0484, avg_reader_cost: 0.7113 avg_batch_cost: 0.9269, avg_ips: 69.0504.
+Type : cable Train [ Epoch 107/128 ], loss: 0.0737, avg_reader_cost: 0.8204 avg_batch_cost: 1.0311, avg_ips: 62.0675.
+Type : cable Train [ Epoch 108/128 ], loss: 0.0199, avg_reader_cost: 0.8364 avg_batch_cost: 1.0526, avg_ips: 60.8037.
+Type : cable Train [ Epoch 109/128 ], loss: 0.0887, avg_reader_cost: 0.8296 avg_batch_cost: 1.0410, avg_ips: 61.4776.
+Type : cable Train [ Epoch 110/128 ], loss: 0.0769, avg_reader_cost: 0.8182 avg_batch_cost: 1.0309, avg_ips: 62.0842.
+loading images
+loaded 224 images
+using density estimation GaussianDensityPaddle
+Type : cable Val [ Epoch 110/128 ] max_auc: 0.9473 roc_auc : 0.889243.
+Type : cable Train [ Epoch 111/128 ], loss: 0.0987, avg_reader_cost: 13.4982 avg_batch_cost: 13.8173, avg_ips: 4.6319.
+Type : cable Train [ Epoch 112/128 ], loss: 0.1030, avg_reader_cost: 0.0003 avg_batch_cost: 0.2218, avg_ips: 288.5456.
+Type : cable Train [ Epoch 113/128 ], loss: 0.0505, avg_reader_cost: 0.0010 avg_batch_cost: 0.2131, avg_ips: 300.3205.
+Type : cable Train [ Epoch 114/128 ], loss: 0.1096, avg_reader_cost: 0.0006 avg_batch_cost: 0.2151, avg_ips: 297.5930.
+Type : cable Train [ Epoch 115/128 ], loss: 0.1353, avg_reader_cost: 0.0011 avg_batch_cost: 0.2154, avg_ips: 297.1434.
+Type : cable Train [ Epoch 116/128 ], loss: 0.0453, avg_reader_cost: 0.7049 avg_batch_cost: 0.9176, avg_ips: 69.7475.
+Type : cable Train [ Epoch 117/128 ], loss: 0.0743, avg_reader_cost: 0.8221 avg_batch_cost: 1.0343, avg_ips: 61.8787.
+Type : cable Train [ Epoch 118/128 ], loss: 0.0762, avg_reader_cost: 0.8137 avg_batch_cost: 1.0281, avg_ips: 62.2513.
+Type : cable Train [ Epoch 119/128 ], loss: 0.0816, avg_reader_cost: 0.8135 avg_batch_cost: 1.0274, avg_ips: 62.2961.
+Type : cable Train [ Epoch 120/128 ], loss: 0.1057, avg_reader_cost: 0.8219 avg_batch_cost: 1.0371, avg_ips: 61.7115.
+loading images
+loaded 224 images
+using density estimation GaussianDensityPaddle
+Type : cable Val [ Epoch 120/128 ] max_auc: 0.9473 roc_auc : 0.881934.
+Type : cable Train [ Epoch 121/128 ], loss: 0.0467, avg_reader_cost: 13.6694 avg_batch_cost: 13.9358, avg_ips: 4.5925.
+Type : cable Train [ Epoch 122/128 ], loss: 0.1157, avg_reader_cost: 0.0003 avg_batch_cost: 0.2104, avg_ips: 304.2186.
+Type : cable Train [ Epoch 123/128 ], loss: 0.1374, avg_reader_cost: 0.0002 avg_batch_cost: 0.2113, avg_ips: 302.8505.
+Type : cable Train [ Epoch 124/128 ], loss: 0.1190, avg_reader_cost: 0.0002 avg_batch_cost: 0.2107, avg_ips: 303.7126.
+Type : cable Train [ Epoch 125/128 ], loss: 0.1060, avg_reader_cost: 0.0002 avg_batch_cost: 0.2138, avg_ips: 299.2878.
+Type : cable Train [ Epoch 126/128 ], loss: 0.0827, avg_reader_cost: 0.7152 avg_batch_cost: 0.9299, avg_ips: 68.8265.
+Type : cable Train [ Epoch 127/128 ], loss: 0.0883, avg_reader_cost: 0.8317 avg_batch_cost: 1.0459, avg_ips: 61.1906.
+Type : cable Train [ Epoch 128/128 ], loss: 0.1118, avg_reader_cost: 0.8261 avg_batch_cost: 1.0428, avg_ips: 61.3714.

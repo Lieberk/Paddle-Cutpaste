@@ -1,0 +1,176 @@
+Type : wood Train [ Epoch 1/128 ], loss: 1.4629, avg_reader_cost: 1.1869 avg_batch_cost: 1.2651, avg_ips: 50.5902.
+Type : wood Train [ Epoch 2/128 ], loss: 1.3965, avg_reader_cost: 1.1470 avg_batch_cost: 1.2175, avg_ips: 52.5662.
+Type : wood Train [ Epoch 3/128 ], loss: 1.3409, avg_reader_cost: 1.1494 avg_batch_cost: 1.2236, avg_ips: 52.3057.
+Type : wood Train [ Epoch 4/128 ], loss: 1.2179, avg_reader_cost: 0.9597 avg_batch_cost: 1.0273, avg_ips: 62.3007.
+Type : wood Train [ Epoch 5/128 ], loss: 1.1540, avg_reader_cost: 0.8402 avg_batch_cost: 0.9086, avg_ips: 70.4346.
+Type : wood Train [ Epoch 6/128 ], loss: 1.1085, avg_reader_cost: 0.8557 avg_batch_cost: 0.9230, avg_ips: 69.3398.
+Type : wood Train [ Epoch 7/128 ], loss: 1.0964, avg_reader_cost: 0.8426 avg_batch_cost: 0.9082, avg_ips: 70.4696.
+Type : wood Train [ Epoch 8/128 ], loss: 1.0573, avg_reader_cost: 0.8373 avg_batch_cost: 0.9050, avg_ips: 70.7218.
+Type : wood Train [ Epoch 9/128 ], loss: 1.0677, avg_reader_cost: 0.8393 avg_batch_cost: 0.9042, avg_ips: 70.7784.
+Type : wood Train [ Epoch 10/128 ], loss: 1.0453, avg_reader_cost: 0.8416 avg_batch_cost: 0.9098, avg_ips: 70.3428.
+loading images
+loaded 247 images
+using density estimation GaussianDensityPaddle
+Type : wood Val [ Epoch 10/128 ] max_auc: 0.9193 roc_auc : 0.919298.
+Type : wood Train [ Epoch 11/128 ], loss: 1.0404, avg_reader_cost: 10.9919 avg_batch_cost: 11.0634, avg_ips: 5.7848.
+Type : wood Train [ Epoch 12/128 ], loss: 0.9529, avg_reader_cost: 0.0001 avg_batch_cost: 0.0664, avg_ips: 964.0762.
+Type : wood Train [ Epoch 13/128 ], loss: 1.0084, avg_reader_cost: 0.0010 avg_batch_cost: 0.0672, avg_ips: 952.8246.
+Type : wood Train [ Epoch 14/128 ], loss: 1.0103, avg_reader_cost: 0.0004 avg_batch_cost: 0.0670, avg_ips: 954.9057.
+Type : wood Train [ Epoch 15/128 ], loss: 1.0298, avg_reader_cost: 0.0005 avg_batch_cost: 0.0660, avg_ips: 970.2685.
+Type : wood Train [ Epoch 16/128 ], loss: 0.9681, avg_reader_cost: 0.7764 avg_batch_cost: 0.8444, avg_ips: 75.7909.
+Type : wood Train [ Epoch 17/128 ], loss: 0.9069, avg_reader_cost: 0.8351 avg_batch_cost: 0.9013, avg_ips: 71.0066.
+Type : wood Train [ Epoch 18/128 ], loss: 0.8478, avg_reader_cost: 0.8415 avg_batch_cost: 0.9076, avg_ips: 70.5127.
+Type : wood Train [ Epoch 19/128 ], loss: 0.9265, avg_reader_cost: 0.8361 avg_batch_cost: 0.9015, avg_ips: 70.9957.
+Type : wood Train [ Epoch 20/128 ], loss: 0.8868, avg_reader_cost: 0.8467 avg_batch_cost: 0.9142, avg_ips: 70.0089.
+loading images
+loaded 247 images
+using density estimation GaussianDensityPaddle
+Type : wood Val [ Epoch 20/128 ] max_auc: 0.9193 roc_auc : 0.905263.
+Type : wood Train [ Epoch 21/128 ], loss: 0.9265, avg_reader_cost: 10.8572 avg_batch_cost: 11.1422, avg_ips: 5.7439.
+Type : wood Train [ Epoch 22/128 ], loss: 0.8593, avg_reader_cost: 0.0002 avg_batch_cost: 0.1182, avg_ips: 541.3970.
+Type : wood Train [ Epoch 23/128 ], loss: 0.7452, avg_reader_cost: 0.0004 avg_batch_cost: 0.1248, avg_ips: 512.8216.
+Type : wood Train [ Epoch 24/128 ], loss: 0.6262, avg_reader_cost: 0.0011 avg_batch_cost: 0.1335, avg_ips: 479.5203.
+Type : wood Train [ Epoch 25/128 ], loss: 0.4756, avg_reader_cost: 0.0003 avg_batch_cost: 0.1303, avg_ips: 491.1147.
+Type : wood Train [ Epoch 26/128 ], loss: 0.4770, avg_reader_cost: 0.7167 avg_batch_cost: 0.9307, avg_ips: 68.7670.
+Type : wood Train [ Epoch 27/128 ], loss: 0.3820, avg_reader_cost: 0.8295 avg_batch_cost: 1.0464, avg_ips: 61.1608.
+Type : wood Train [ Epoch 28/128 ], loss: 0.3343, avg_reader_cost: 0.8574 avg_batch_cost: 1.0719, avg_ips: 59.7094.
+Type : wood Train [ Epoch 29/128 ], loss: 0.3535, avg_reader_cost: 0.8253 avg_batch_cost: 1.0405, avg_ips: 61.5101.
+Type : wood Train [ Epoch 30/128 ], loss: 0.2849, avg_reader_cost: 0.8279 avg_batch_cost: 1.0414, avg_ips: 61.4570.
+loading images
+loaded 247 images
+using density estimation GaussianDensityPaddle
+Type : wood Val [ Epoch 30/128 ] max_auc: 0.9868 roc_auc : 0.986842.
+Type : wood Train [ Epoch 31/128 ], loss: 0.2941, avg_reader_cost: 11.1653 avg_batch_cost: 11.3797, avg_ips: 5.6240.
+Type : wood Train [ Epoch 32/128 ], loss: 0.2617, avg_reader_cost: 0.0002 avg_batch_cost: 0.2134, avg_ips: 299.8796.
+Type : wood Train [ Epoch 33/128 ], loss: 0.3041, avg_reader_cost: 0.0003 avg_batch_cost: 0.1195, avg_ips: 535.7597.
+Type : wood Train [ Epoch 34/128 ], loss: 0.3029, avg_reader_cost: 0.0004 avg_batch_cost: 0.1167, avg_ips: 548.4016.
+Type : wood Train [ Epoch 35/128 ], loss: 0.2436, avg_reader_cost: 0.0005 avg_batch_cost: 0.1343, avg_ips: 476.6102.
+Type : wood Train [ Epoch 36/128 ], loss: 0.2437, avg_reader_cost: 0.7362 avg_batch_cost: 0.9554, avg_ips: 66.9903.
+Type : wood Train [ Epoch 37/128 ], loss: 0.2947, avg_reader_cost: 0.8307 avg_batch_cost: 1.0407, avg_ips: 61.4981.
+Type : wood Train [ Epoch 38/128 ], loss: 0.2495, avg_reader_cost: 0.8250 avg_batch_cost: 1.0422, avg_ips: 61.4090.
+Type : wood Train [ Epoch 39/128 ], loss: 0.2128, avg_reader_cost: 0.8255 avg_batch_cost: 1.0409, avg_ips: 61.4832.
+Type : wood Train [ Epoch 40/128 ], loss: 0.1980, avg_reader_cost: 0.8301 avg_batch_cost: 1.0462, avg_ips: 61.1721.
+loading images
+loaded 247 images
+using density estimation GaussianDensityPaddle
+Type : wood Val [ Epoch 40/128 ] max_auc: 0.9868 roc_auc : 0.959649.
+Type : wood Train [ Epoch 41/128 ], loss: 0.2251, avg_reader_cost: 11.1260 avg_batch_cost: 11.4941, avg_ips: 5.5681.
+Type : wood Train [ Epoch 42/128 ], loss: 0.1716, avg_reader_cost: 0.0002 avg_batch_cost: 0.2183, avg_ips: 293.1443.
+Type : wood Train [ Epoch 43/128 ], loss: 0.1483, avg_reader_cost: 0.0003 avg_batch_cost: 0.2136, avg_ips: 299.6162.
+Type : wood Train [ Epoch 44/128 ], loss: 0.1513, avg_reader_cost: 0.0002 avg_batch_cost: 0.2129, avg_ips: 300.6188.
+Type : wood Train [ Epoch 45/128 ], loss: 0.0828, avg_reader_cost: 0.0003 avg_batch_cost: 0.2117, avg_ips: 302.3565.
+Type : wood Train [ Epoch 46/128 ], loss: 0.1248, avg_reader_cost: 0.7372 avg_batch_cost: 0.8048, avg_ips: 79.5276.
+Type : wood Train [ Epoch 47/128 ], loss: 0.1562, avg_reader_cost: 0.8761 avg_batch_cost: 1.0889, avg_ips: 58.7768.
+Type : wood Train [ Epoch 48/128 ], loss: 0.1442, avg_reader_cost: 0.8396 avg_batch_cost: 1.0546, avg_ips: 60.6887.
+Type : wood Train [ Epoch 49/128 ], loss: 0.1213, avg_reader_cost: 0.8241 avg_batch_cost: 1.0374, avg_ips: 61.6953.
+Type : wood Train [ Epoch 50/128 ], loss: 0.1538, avg_reader_cost: 0.8239 avg_batch_cost: 1.0422, avg_ips: 61.4096.
+loading images
+loaded 247 images
+using density estimation GaussianDensityPaddle
+Type : wood Val [ Epoch 50/128 ] max_auc: 0.9868 roc_auc : 0.930702.
+Type : wood Train [ Epoch 51/128 ], loss: 0.1338, avg_reader_cost: 10.7983 avg_batch_cost: 11.0622, avg_ips: 5.7855.
+Type : wood Train [ Epoch 52/128 ], loss: 0.1316, avg_reader_cost: 0.0004 avg_batch_cost: 0.2162, avg_ips: 296.0256.
+Type : wood Train [ Epoch 53/128 ], loss: 0.1351, avg_reader_cost: 0.0003 avg_batch_cost: 0.2170, avg_ips: 294.9224.
+Type : wood Train [ Epoch 54/128 ], loss: 0.1205, avg_reader_cost: 0.0010 avg_batch_cost: 0.2158, avg_ips: 296.5263.
+Type : wood Train [ Epoch 55/128 ], loss: 0.1070, avg_reader_cost: 0.0003 avg_batch_cost: 0.2161, avg_ips: 296.1056.
+Type : wood Train [ Epoch 56/128 ], loss: 0.1215, avg_reader_cost: 0.7285 avg_batch_cost: 0.9443, avg_ips: 67.7746.
+Type : wood Train [ Epoch 57/128 ], loss: 0.1073, avg_reader_cost: 0.8358 avg_batch_cost: 1.0532, avg_ips: 60.7662.
+Type : wood Train [ Epoch 58/128 ], loss: 0.1476, avg_reader_cost: 0.8302 avg_batch_cost: 1.0478, avg_ips: 61.0823.
+Type : wood Train [ Epoch 59/128 ], loss: 0.1149, avg_reader_cost: 0.8280 avg_batch_cost: 1.0434, avg_ips: 61.3385.
+Type : wood Train [ Epoch 60/128 ], loss: 0.1018, avg_reader_cost: 0.8307 avg_batch_cost: 1.0461, avg_ips: 61.1817.
+loading images
+loaded 247 images
+using density estimation GaussianDensityPaddle
+Type : wood Val [ Epoch 60/128 ] max_auc: 0.9868 roc_auc : 0.984211.
+Type : wood Train [ Epoch 61/128 ], loss: 0.1538, avg_reader_cost: 10.9305 avg_batch_cost: 11.1488, avg_ips: 5.7405.
+Type : wood Train [ Epoch 62/128 ], loss: 0.1351, avg_reader_cost: 0.0003 avg_batch_cost: 0.1098, avg_ips: 583.0851.
+Type : wood Train [ Epoch 63/128 ], loss: 0.1407, avg_reader_cost: 0.0011 avg_batch_cost: 0.1096, avg_ips: 583.8981.
+Type : wood Train [ Epoch 64/128 ], loss: 0.1007, avg_reader_cost: 0.0003 avg_batch_cost: 0.1143, avg_ips: 559.8494.
+Type : wood Train [ Epoch 65/128 ], loss: 0.0691, avg_reader_cost: 0.0003 avg_batch_cost: 0.1196, avg_ips: 535.0731.
+Type : wood Train [ Epoch 66/128 ], loss: 0.0868, avg_reader_cost: 0.7229 avg_batch_cost: 0.9366, avg_ips: 68.3317.
+Type : wood Train [ Epoch 67/128 ], loss: 0.0731, avg_reader_cost: 0.8384 avg_batch_cost: 1.0554, avg_ips: 60.6406.
+Type : wood Train [ Epoch 68/128 ], loss: 0.0961, avg_reader_cost: 0.8292 avg_batch_cost: 1.0443, avg_ips: 61.2825.
+Type : wood Train [ Epoch 69/128 ], loss: 0.0978, avg_reader_cost: 0.8357 avg_batch_cost: 1.0501, avg_ips: 60.9488.
+Type : wood Train [ Epoch 70/128 ], loss: 0.1027, avg_reader_cost: 0.8312 avg_batch_cost: 1.0455, avg_ips: 61.2164.
+loading images
+loaded 247 images
+using density estimation GaussianDensityPaddle
+Type : wood Val [ Epoch 70/128 ] max_auc: 0.9895 roc_auc : 0.989474.
+Type : wood Train [ Epoch 71/128 ], loss: 0.1415, avg_reader_cost: 11.8984 avg_batch_cost: 12.1315, avg_ips: 5.2755.
+Type : wood Train [ Epoch 72/128 ], loss: 0.0909, avg_reader_cost: 0.0002 avg_batch_cost: 0.2119, avg_ips: 302.0639.
+Type : wood Train [ Epoch 73/128 ], loss: 0.1417, avg_reader_cost: 0.0002 avg_batch_cost: 0.2094, avg_ips: 305.7066.
+Type : wood Train [ Epoch 74/128 ], loss: 0.1278, avg_reader_cost: 0.0002 avg_batch_cost: 0.2125, avg_ips: 301.2416.
+Type : wood Train [ Epoch 75/128 ], loss: 0.1109, avg_reader_cost: 0.0002 avg_batch_cost: 0.2137, avg_ips: 299.4671.
+Type : wood Train [ Epoch 76/128 ], loss: 0.0963, avg_reader_cost: 0.7289 avg_batch_cost: 0.9440, avg_ips: 67.7990.
+Type : wood Train [ Epoch 77/128 ], loss: 0.1114, avg_reader_cost: 0.8320 avg_batch_cost: 1.0462, avg_ips: 61.1746.
+Type : wood Train [ Epoch 78/128 ], loss: 0.0953, avg_reader_cost: 0.8353 avg_batch_cost: 1.0502, avg_ips: 60.9384.
+Type : wood Train [ Epoch 79/128 ], loss: 0.1084, avg_reader_cost: 0.8279 avg_batch_cost: 1.0421, avg_ips: 61.4145.
+Type : wood Train [ Epoch 80/128 ], loss: 0.0776, avg_reader_cost: 0.8330 avg_batch_cost: 1.0542, avg_ips: 60.7085.
+loading images
+loaded 247 images
+using density estimation GaussianDensityPaddle
+Type : wood Val [ Epoch 80/128 ] max_auc: 0.9912 roc_auc : 0.991228.
+Type : wood Train [ Epoch 81/128 ], loss: 0.0947, avg_reader_cost: 11.4290 avg_batch_cost: 11.6460, avg_ips: 5.4954.
+Type : wood Train [ Epoch 82/128 ], loss: 0.0764, avg_reader_cost: 0.0003 avg_batch_cost: 0.2180, avg_ips: 293.5559.
+Type : wood Train [ Epoch 83/128 ], loss: 0.0679, avg_reader_cost: 0.0003 avg_batch_cost: 0.1141, avg_ips: 561.0206.
+Type : wood Train [ Epoch 84/128 ], loss: 0.0943, avg_reader_cost: 0.0012 avg_batch_cost: 0.1249, avg_ips: 512.2208.
+Type : wood Train [ Epoch 85/128 ], loss: 0.0830, avg_reader_cost: 0.0004 avg_batch_cost: 0.1316, avg_ips: 486.4609.
+Type : wood Train [ Epoch 86/128 ], loss: 0.1250, avg_reader_cost: 0.7087 avg_batch_cost: 0.9225, avg_ips: 69.3733.
+Type : wood Train [ Epoch 87/128 ], loss: 0.1047, avg_reader_cost: 0.8234 avg_batch_cost: 1.0391, avg_ips: 61.5908.
+Type : wood Train [ Epoch 88/128 ], loss: 0.1515, avg_reader_cost: 0.8218 avg_batch_cost: 1.0386, avg_ips: 61.6209.
+Type : wood Train [ Epoch 89/128 ], loss: 0.1266, avg_reader_cost: 0.8179 avg_batch_cost: 1.0348, avg_ips: 61.8506.
+Type : wood Train [ Epoch 90/128 ], loss: 0.0931, avg_reader_cost: 0.8220 avg_batch_cost: 1.0336, avg_ips: 61.9183.
+loading images
+loaded 247 images
+using density estimation GaussianDensityPaddle
+Type : wood Val [ Epoch 90/128 ] max_auc: 0.9912 roc_auc : 0.977193.
+Type : wood Train [ Epoch 91/128 ], loss: 0.1148, avg_reader_cost: 10.1712 avg_batch_cost: 10.2769, avg_ips: 6.2275.
+Type : wood Train [ Epoch 92/128 ], loss: 0.0880, avg_reader_cost: 0.0003 avg_batch_cost: 0.0688, avg_ips: 930.3006.
+Type : wood Train [ Epoch 93/128 ], loss: 0.0789, avg_reader_cost: 0.8813 avg_batch_cost: 1.0947, avg_ips: 58.4625.
+Type : wood Train [ Epoch 94/128 ], loss: 0.0792, avg_reader_cost: 0.8491 avg_batch_cost: 1.0633, avg_ips: 60.1924.
+Type : wood Train [ Epoch 95/128 ], loss: 0.1068, avg_reader_cost: 0.8295 avg_batch_cost: 1.0472, avg_ips: 61.1135.
+Type : wood Train [ Epoch 96/128 ], loss: 0.0733, avg_reader_cost: 0.8255 avg_batch_cost: 1.0437, avg_ips: 61.3205.
+Type : wood Train [ Epoch 97/128 ], loss: 0.0801, avg_reader_cost: 0.8282 avg_batch_cost: 1.0409, avg_ips: 61.4834.
+Type : wood Train [ Epoch 98/128 ], loss: 0.1015, avg_reader_cost: 0.8282 avg_batch_cost: 1.0400, avg_ips: 61.5406.
+Type : wood Train [ Epoch 99/128 ], loss: 0.0560, avg_reader_cost: 0.8282 avg_batch_cost: 1.0479, avg_ips: 61.0737.
+Type : wood Train [ Epoch 100/128 ], loss: 0.1075, avg_reader_cost: 0.8403 avg_batch_cost: 1.0537, avg_ips: 60.7411.
+loading images
+loaded 247 images
+using density estimation GaussianDensityPaddle
+Type : wood Val [ Epoch 100/128 ] max_auc: 0.9912 roc_auc : 0.990351.
+Type : wood Train [ Epoch 101/128 ], loss: 0.0952, avg_reader_cost: 10.8288 avg_batch_cost: 11.0162, avg_ips: 5.8096.
+Type : wood Train [ Epoch 102/128 ], loss: 0.1415, avg_reader_cost: 0.0003 avg_batch_cost: 0.1290, avg_ips: 496.0151.
+Type : wood Train [ Epoch 103/128 ], loss: 0.0472, avg_reader_cost: 0.0003 avg_batch_cost: 0.1231, avg_ips: 519.9033.
+Type : wood Train [ Epoch 104/128 ], loss: 0.0578, avg_reader_cost: 0.0004 avg_batch_cost: 0.1333, avg_ips: 479.9902.
+Type : wood Train [ Epoch 105/128 ], loss: 0.0410, avg_reader_cost: 0.0003 avg_batch_cost: 0.1141, avg_ips: 560.8823.
+Type : wood Train [ Epoch 106/128 ], loss: 0.0851, avg_reader_cost: 0.7304 avg_batch_cost: 0.9425, avg_ips: 67.9069.
+Type : wood Train [ Epoch 107/128 ], loss: 0.0838, avg_reader_cost: 0.8250 avg_batch_cost: 1.0396, avg_ips: 61.5593.
+Type : wood Train [ Epoch 108/128 ], loss: 0.0509, avg_reader_cost: 0.8256 avg_batch_cost: 1.0416, avg_ips: 61.4427.
+Type : wood Train [ Epoch 109/128 ], loss: 0.0823, avg_reader_cost: 0.8291 avg_batch_cost: 1.0490, avg_ips: 61.0127.
+Type : wood Train [ Epoch 110/128 ], loss: 0.0510, avg_reader_cost: 0.8240 avg_batch_cost: 1.0397, avg_ips: 61.5561.
+loading images
+loaded 247 images
+using density estimation GaussianDensityPaddle
+Type : wood Val [ Epoch 110/128 ] max_auc: 0.9912 roc_auc : 0.974561.
+Type : wood Train [ Epoch 111/128 ], loss: 0.0492, avg_reader_cost: 10.9956 avg_batch_cost: 11.2870, avg_ips: 5.6702.
+Type : wood Train [ Epoch 112/128 ], loss: 0.1363, avg_reader_cost: 0.0003 avg_batch_cost: 0.2155, avg_ips: 296.9823.
+Type : wood Train [ Epoch 113/128 ], loss: 0.0426, avg_reader_cost: 0.0003 avg_batch_cost: 0.2114, avg_ips: 302.7801.
+Type : wood Train [ Epoch 114/128 ], loss: 0.1017, avg_reader_cost: 0.0002 avg_batch_cost: 0.2116, avg_ips: 302.5208.
+Type : wood Train [ Epoch 115/128 ], loss: 0.0878, avg_reader_cost: 0.0002 avg_batch_cost: 0.2113, avg_ips: 302.8266.
+Type : wood Train [ Epoch 116/128 ], loss: 0.0886, avg_reader_cost: 0.7056 avg_batch_cost: 0.9186, avg_ips: 69.6738.
+Type : wood Train [ Epoch 117/128 ], loss: 0.0822, avg_reader_cost: 0.8290 avg_batch_cost: 1.0438, avg_ips: 61.3151.
+Type : wood Train [ Epoch 118/128 ], loss: 0.0874, avg_reader_cost: 0.8432 avg_batch_cost: 1.0586, avg_ips: 60.4595.
+Type : wood Train [ Epoch 119/128 ], loss: 0.1012, avg_reader_cost: 0.8556 avg_batch_cost: 1.0675, avg_ips: 59.9552.
+Type : wood Train [ Epoch 120/128 ], loss: 0.0691, avg_reader_cost: 0.8278 avg_batch_cost: 1.0424, avg_ips: 61.3966.
+loading images
+loaded 247 images
+using density estimation GaussianDensityPaddle
+Type : wood Val [ Epoch 120/128 ] max_auc: 0.9912 roc_auc : 0.985965.
+Type : wood Train [ Epoch 121/128 ], loss: 0.0645, avg_reader_cost: 10.7205 avg_batch_cost: 10.9916, avg_ips: 5.8227.
+Type : wood Train [ Epoch 122/128 ], loss: 0.0425, avg_reader_cost: 0.0002 avg_batch_cost: 0.2098, avg_ips: 305.0777.
+Type : wood Train [ Epoch 123/128 ], loss: 0.1123, avg_reader_cost: 0.0003 avg_batch_cost: 0.2157, avg_ips: 296.6810.
+Type : wood Train [ Epoch 124/128 ], loss: 0.1601, avg_reader_cost: 0.0002 avg_batch_cost: 0.2102, avg_ips: 304.4459.
+Type : wood Train [ Epoch 125/128 ], loss: 0.0776, avg_reader_cost: 0.0003 avg_batch_cost: 0.2130, avg_ips: 300.4008.
+Type : wood Train [ Epoch 126/128 ], loss: 0.1109, avg_reader_cost: 0.7152 avg_batch_cost: 0.9300, avg_ips: 68.8191.
+Type : wood Train [ Epoch 127/128 ], loss: 0.0493, avg_reader_cost: 0.8227 avg_batch_cost: 1.0362, avg_ips: 61.7627.
+Type : wood Train [ Epoch 128/128 ], loss: 0.0395, avg_reader_cost: 0.8263 avg_batch_cost: 1.0415, avg_ips: 61.4494.

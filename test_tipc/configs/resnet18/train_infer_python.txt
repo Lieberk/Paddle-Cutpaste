@@ -1,0 +1,32 @@
+===========================train_params===========================
+model_name:resnet18
+python:python
+gpu_list:0
+--cuda:True
+--epochs:lite_train_lite_infer=3|whole_train_whole_infer=256
+--model_dir:
+--batch_size:lite_train_lite_infer=5|whole_train_whole_infer=96
+--pretrained:null
+train_model_name:
+--data_dir:lite_data
+##
+trainer:norm_train
+norm_train:train.py --test_epochs=3 --data_dir=lite_data --type=bottle --model_dir=test_tipc/output/resnet18/lite_train_lite_infer/norm_train_gpus_0
+##
+===========================eval_params===========================
+eval:eval.py --data_dir=lite_data --type=bottle --model_dir=test_tipc/output/resnet18/lite_train_lite_infer/norm_train_gpus_0
+##
+===========================infer_params===========================
+--save_inference_dir:test_tipc/output/resnet18/lite_train_lite_infer
+--pretrained:
+norm_export:deploy/export_model.py --model_path=test_tipc/output/resnet18/lite_train_lite_infer/norm_train_gpus_0 --data_type=bottle
+##
+train_model:test_tipc/output/resnet18/lite_train_lite_infer/model-bottle.pdparams
+infer_export:deploy/export_model.py
+##
+inference:deploy/infer.py
+--use_gpu:True|False
+--batch_size:1
+--model_dir:test_tipc/output//resnet18/
+--img-path:images/good.png
+--data_type:bottle

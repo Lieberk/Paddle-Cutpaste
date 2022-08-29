@@ -1,0 +1,176 @@
+Type : metal_nut Train [ Epoch 1/128 ], loss: 1.3963, avg_reader_cost: 1.1610 avg_batch_cost: 1.2485, avg_ips: 51.2633.
+Type : metal_nut Train [ Epoch 2/128 ], loss: 1.4326, avg_reader_cost: 1.1681 avg_batch_cost: 1.2437, avg_ips: 51.4577.
+Type : metal_nut Train [ Epoch 3/128 ], loss: 1.2175, avg_reader_cost: 1.1323 avg_batch_cost: 1.2137, avg_ips: 52.7310.
+Type : metal_nut Train [ Epoch 4/128 ], loss: 0.9736, avg_reader_cost: 1.1775 avg_batch_cost: 1.2553, avg_ips: 50.9844.
+Type : metal_nut Train [ Epoch 5/128 ], loss: 0.9622, avg_reader_cost: 0.8612 avg_batch_cost: 0.9333, avg_ips: 68.5763.
+Type : metal_nut Train [ Epoch 6/128 ], loss: 0.8059, avg_reader_cost: 0.8280 avg_batch_cost: 0.8978, avg_ips: 71.2883.
+Type : metal_nut Train [ Epoch 7/128 ], loss: 0.8437, avg_reader_cost: 0.8358 avg_batch_cost: 0.9077, avg_ips: 70.5045.
+Type : metal_nut Train [ Epoch 8/128 ], loss: 0.7649, avg_reader_cost: 0.8446 avg_batch_cost: 0.9160, avg_ips: 69.8726.
+Type : metal_nut Train [ Epoch 9/128 ], loss: 0.7987, avg_reader_cost: 0.8340 avg_batch_cost: 0.9067, avg_ips: 70.5843.
+Type : metal_nut Train [ Epoch 10/128 ], loss: 0.7581, avg_reader_cost: 0.8550 avg_batch_cost: 0.9261, avg_ips: 69.1040.
+loading images
+loaded 220 images
+using density estimation GaussianDensityPaddle
+Type : metal_nut Val [ Epoch 10/128 ] max_auc: 0.9355 roc_auc : 0.935484.
+Type : metal_nut Train [ Epoch 11/128 ], loss: 0.7506, avg_reader_cost: 6.1610 avg_batch_cost: 6.2343, avg_ips: 10.2658.
+Type : metal_nut Train [ Epoch 12/128 ], loss: 0.6685, avg_reader_cost: 0.0001 avg_batch_cost: 0.0692, avg_ips: 925.3204.
+Type : metal_nut Train [ Epoch 13/128 ], loss: 0.7431, avg_reader_cost: 0.0002 avg_batch_cost: 0.0652, avg_ips: 981.2349.
+Type : metal_nut Train [ Epoch 14/128 ], loss: 0.8099, avg_reader_cost: 0.0001 avg_batch_cost: 0.0659, avg_ips: 971.4870.
+Type : metal_nut Train [ Epoch 15/128 ], loss: 0.7188, avg_reader_cost: 0.0002 avg_batch_cost: 0.0638, avg_ips: 1003.3808.
+Type : metal_nut Train [ Epoch 16/128 ], loss: 0.7477, avg_reader_cost: 0.7756 avg_batch_cost: 0.8422, avg_ips: 75.9878.
+Type : metal_nut Train [ Epoch 17/128 ], loss: 0.7088, avg_reader_cost: 0.8299 avg_batch_cost: 0.8970, avg_ips: 71.3488.
+Type : metal_nut Train [ Epoch 18/128 ], loss: 0.7017, avg_reader_cost: 0.8303 avg_batch_cost: 0.8954, avg_ips: 71.4735.
+Type : metal_nut Train [ Epoch 19/128 ], loss: 0.6894, avg_reader_cost: 0.8343 avg_batch_cost: 0.9014, avg_ips: 70.9971.
+Type : metal_nut Train [ Epoch 20/128 ], loss: 0.6785, avg_reader_cost: 0.8339 avg_batch_cost: 0.8994, avg_ips: 71.1600.
+loading images
+loaded 220 images
+using density estimation GaussianDensityPaddle
+Type : metal_nut Val [ Epoch 20/128 ] max_auc: 0.9404 roc_auc : 0.940371.
+Type : metal_nut Train [ Epoch 21/128 ], loss: 0.6175, avg_reader_cost: 6.3701 avg_batch_cost: 6.5903, avg_ips: 9.7113.
+Type : metal_nut Train [ Epoch 22/128 ], loss: 0.5572, avg_reader_cost: 0.0002 avg_batch_cost: 0.1132, avg_ips: 565.1451.
+Type : metal_nut Train [ Epoch 23/128 ], loss: 0.5492, avg_reader_cost: 0.0003 avg_batch_cost: 0.1516, avg_ips: 422.1606.
+Type : metal_nut Train [ Epoch 24/128 ], loss: 0.4363, avg_reader_cost: 0.0010 avg_batch_cost: 0.1178, avg_ips: 543.1904.
+Type : metal_nut Train [ Epoch 25/128 ], loss: 0.4056, avg_reader_cost: 0.0002 avg_batch_cost: 0.1224, avg_ips: 522.7504.
+Type : metal_nut Train [ Epoch 26/128 ], loss: 0.3544, avg_reader_cost: 0.7249 avg_batch_cost: 0.9370, avg_ips: 68.3062.
+Type : metal_nut Train [ Epoch 27/128 ], loss: 0.3103, avg_reader_cost: 0.8385 avg_batch_cost: 1.0513, avg_ips: 60.8758.
+Type : metal_nut Train [ Epoch 28/128 ], loss: 0.3450, avg_reader_cost: 0.8327 avg_batch_cost: 1.0475, avg_ips: 61.0982.
+Type : metal_nut Train [ Epoch 29/128 ], loss: 0.3013, avg_reader_cost: 0.8394 avg_batch_cost: 1.0553, avg_ips: 60.6446.
+Type : metal_nut Train [ Epoch 30/128 ], loss: 0.2673, avg_reader_cost: 0.8378 avg_batch_cost: 1.0547, avg_ips: 60.6808.
+loading images
+loaded 220 images
+using density estimation GaussianDensityPaddle
+Type : metal_nut Val [ Epoch 30/128 ] max_auc: 0.9404 roc_auc : 0.922287.
+Type : metal_nut Train [ Epoch 31/128 ], loss: 0.2973, avg_reader_cost: 6.0164 avg_batch_cost: 6.3642, avg_ips: 10.0562.
+Type : metal_nut Train [ Epoch 32/128 ], loss: 0.3892, avg_reader_cost: 0.0002 avg_batch_cost: 0.2111, avg_ips: 303.1580.
+Type : metal_nut Train [ Epoch 33/128 ], loss: 0.3444, avg_reader_cost: 0.0003 avg_batch_cost: 0.2140, avg_ips: 299.0721.
+Type : metal_nut Train [ Epoch 34/128 ], loss: 0.3128, avg_reader_cost: 0.0002 avg_batch_cost: 0.2143, avg_ips: 298.6426.
+Type : metal_nut Train [ Epoch 35/128 ], loss: 0.2905, avg_reader_cost: 0.0002 avg_batch_cost: 0.2142, avg_ips: 298.7632.
+Type : metal_nut Train [ Epoch 36/128 ], loss: 0.3223, avg_reader_cost: 0.7192 avg_batch_cost: 0.9355, avg_ips: 68.4128.
+Type : metal_nut Train [ Epoch 37/128 ], loss: 0.2341, avg_reader_cost: 0.8348 avg_batch_cost: 1.0513, avg_ips: 60.8798.
+Type : metal_nut Train [ Epoch 38/128 ], loss: 0.2600, avg_reader_cost: 0.8247 avg_batch_cost: 1.0396, avg_ips: 61.5618.
+Type : metal_nut Train [ Epoch 39/128 ], loss: 0.1796, avg_reader_cost: 0.8235 avg_batch_cost: 1.0384, avg_ips: 61.6323.
+Type : metal_nut Train [ Epoch 40/128 ], loss: 0.2711, avg_reader_cost: 0.8202 avg_batch_cost: 1.0347, avg_ips: 61.8519.
+loading images
+loaded 220 images
+using density estimation GaussianDensityPaddle
+Type : metal_nut Val [ Epoch 40/128 ] max_auc: 0.9453 roc_auc : 0.945259.
+Type : metal_nut Train [ Epoch 41/128 ], loss: 0.2497, avg_reader_cost: 6.5755 avg_batch_cost: 6.8088, avg_ips: 9.3996.
+Type : metal_nut Train [ Epoch 42/128 ], loss: 0.1963, avg_reader_cost: 0.0003 avg_batch_cost: 0.2193, avg_ips: 291.8836.
+Type : metal_nut Train [ Epoch 43/128 ], loss: 0.1311, avg_reader_cost: 0.0010 avg_batch_cost: 0.2157, avg_ips: 296.7603.
+Type : metal_nut Train [ Epoch 44/128 ], loss: 0.2678, avg_reader_cost: 0.0010 avg_batch_cost: 0.2155, avg_ips: 296.9383.
+Type : metal_nut Train [ Epoch 45/128 ], loss: 0.2016, avg_reader_cost: 0.0002 avg_batch_cost: 0.2096, avg_ips: 305.3265.
+Type : metal_nut Train [ Epoch 46/128 ], loss: 0.2563, avg_reader_cost: 0.7196 avg_batch_cost: 0.7862, avg_ips: 81.4063.
+Type : metal_nut Train [ Epoch 47/128 ], loss: 0.2193, avg_reader_cost: 0.8770 avg_batch_cost: 1.0895, avg_ips: 58.7407.
+Type : metal_nut Train [ Epoch 48/128 ], loss: 0.1624, avg_reader_cost: 0.8429 avg_batch_cost: 1.0575, avg_ips: 60.5200.
+Type : metal_nut Train [ Epoch 49/128 ], loss: 0.2210, avg_reader_cost: 0.8304 avg_batch_cost: 1.0438, avg_ips: 61.3147.
+Type : metal_nut Train [ Epoch 50/128 ], loss: 0.2509, avg_reader_cost: 0.8352 avg_batch_cost: 1.0493, avg_ips: 60.9954.
+loading images
+loaded 220 images
+using density estimation GaussianDensityPaddle
+Type : metal_nut Val [ Epoch 50/128 ] max_auc: 0.9453 roc_auc : 0.903226.
+Type : metal_nut Train [ Epoch 51/128 ], loss: 0.1953, avg_reader_cost: 6.1657 avg_batch_cost: 6.3649, avg_ips: 10.0551.
+Type : metal_nut Train [ Epoch 52/128 ], loss: 0.1785, avg_reader_cost: 0.0002 avg_batch_cost: 0.1304, avg_ips: 490.9100.
+Type : metal_nut Train [ Epoch 53/128 ], loss: 0.1228, avg_reader_cost: 0.0010 avg_batch_cost: 0.1259, avg_ips: 508.2176.
+Type : metal_nut Train [ Epoch 54/128 ], loss: 0.1568, avg_reader_cost: 0.0002 avg_batch_cost: 0.1241, avg_ips: 515.7717.
+Type : metal_nut Train [ Epoch 55/128 ], loss: 0.1747, avg_reader_cost: 0.0002 avg_batch_cost: 0.1312, avg_ips: 487.7514.
+Type : metal_nut Train [ Epoch 56/128 ], loss: 0.1544, avg_reader_cost: 0.7245 avg_batch_cost: 0.9374, avg_ips: 68.2757.
+Type : metal_nut Train [ Epoch 57/128 ], loss: 0.1479, avg_reader_cost: 0.8212 avg_batch_cost: 1.0359, avg_ips: 61.7838.
+Type : metal_nut Train [ Epoch 58/128 ], loss: 0.1349, avg_reader_cost: 0.8327 avg_batch_cost: 1.0495, avg_ips: 60.9842.
+Type : metal_nut Train [ Epoch 59/128 ], loss: 0.1815, avg_reader_cost: 0.8263 avg_batch_cost: 1.0417, avg_ips: 61.4363.
+Type : metal_nut Train [ Epoch 60/128 ], loss: 0.2058, avg_reader_cost: 0.8272 avg_batch_cost: 1.0472, avg_ips: 61.1167.
+loading images
+loaded 220 images
+using density estimation GaussianDensityPaddle
+Type : metal_nut Val [ Epoch 60/128 ] max_auc: 0.9506 roc_auc : 0.950635.
+Type : metal_nut Train [ Epoch 61/128 ], loss: 0.1598, avg_reader_cost: 6.5255 avg_batch_cost: 6.7392, avg_ips: 9.4967.
+Type : metal_nut Train [ Epoch 62/128 ], loss: 0.1910, avg_reader_cost: 0.0002 avg_batch_cost: 0.2139, avg_ips: 299.2688.
+Type : metal_nut Train [ Epoch 63/128 ], loss: 0.1427, avg_reader_cost: 0.0003 avg_batch_cost: 0.2092, avg_ips: 305.8686.
+Type : metal_nut Train [ Epoch 64/128 ], loss: 0.1723, avg_reader_cost: 0.0002 avg_batch_cost: 0.2107, avg_ips: 303.7054.
+Type : metal_nut Train [ Epoch 65/128 ], loss: 0.2630, avg_reader_cost: 0.0010 avg_batch_cost: 0.2159, avg_ips: 296.4758.
+Type : metal_nut Train [ Epoch 66/128 ], loss: 0.1428, avg_reader_cost: 0.7183 avg_batch_cost: 0.9329, avg_ips: 68.6005.
+Type : metal_nut Train [ Epoch 67/128 ], loss: 0.2024, avg_reader_cost: 0.8294 avg_batch_cost: 1.0428, avg_ips: 61.3757.
+Type : metal_nut Train [ Epoch 68/128 ], loss: 0.1998, avg_reader_cost: 0.8325 avg_batch_cost: 1.0455, avg_ips: 61.2157.
+Type : metal_nut Train [ Epoch 69/128 ], loss: 0.2392, avg_reader_cost: 0.8246 avg_batch_cost: 1.0400, avg_ips: 61.5412.
+Type : metal_nut Train [ Epoch 70/128 ], loss: 0.1898, avg_reader_cost: 0.8297 avg_batch_cost: 1.0465, avg_ips: 61.1581.
+loading images
+loaded 220 images
+using density estimation GaussianDensityPaddle
+Type : metal_nut Val [ Epoch 70/128 ] max_auc: 0.9506 roc_auc : 0.936461.
+Type : metal_nut Train [ Epoch 71/128 ], loss: 0.1517, avg_reader_cost: 6.1218 avg_batch_cost: 6.3852, avg_ips: 10.0232.
+Type : metal_nut Train [ Epoch 72/128 ], loss: 0.1598, avg_reader_cost: 0.0002 avg_batch_cost: 0.2108, avg_ips: 303.6494.
+Type : metal_nut Train [ Epoch 73/128 ], loss: 0.1503, avg_reader_cost: 0.0010 avg_batch_cost: 0.2155, avg_ips: 297.0306.
+Type : metal_nut Train [ Epoch 74/128 ], loss: 0.1884, avg_reader_cost: 0.0002 avg_batch_cost: 0.2126, avg_ips: 301.0362.
+Type : metal_nut Train [ Epoch 75/128 ], loss: 0.2060, avg_reader_cost: 0.0003 avg_batch_cost: 0.2163, avg_ips: 295.9372.
+Type : metal_nut Train [ Epoch 76/128 ], loss: 0.1452, avg_reader_cost: 0.7319 avg_batch_cost: 0.9482, avg_ips: 67.4961.
+Type : metal_nut Train [ Epoch 77/128 ], loss: 0.1837, avg_reader_cost: 0.8402 avg_batch_cost: 1.0531, avg_ips: 60.7710.
+Type : metal_nut Train [ Epoch 78/128 ], loss: 0.1634, avg_reader_cost: 0.8421 avg_batch_cost: 1.0571, avg_ips: 60.5442.
+Type : metal_nut Train [ Epoch 79/128 ], loss: 0.2093, avg_reader_cost: 0.8414 avg_batch_cost: 1.0547, avg_ips: 60.6785.
+Type : metal_nut Train [ Epoch 80/128 ], loss: 0.1850, avg_reader_cost: 0.8367 avg_batch_cost: 1.0495, avg_ips: 60.9809.
+loading images
+loaded 220 images
+using density estimation GaussianDensityPaddle
+Type : metal_nut Val [ Epoch 80/128 ] max_auc: 0.9506 roc_auc : 0.935484.
+Type : metal_nut Train [ Epoch 81/128 ], loss: 0.1295, avg_reader_cost: 6.1279 avg_batch_cost: 6.4363, avg_ips: 9.9436.
+Type : metal_nut Train [ Epoch 82/128 ], loss: 0.1215, avg_reader_cost: 0.0011 avg_batch_cost: 0.2178, avg_ips: 293.8043.
+Type : metal_nut Train [ Epoch 83/128 ], loss: 0.2716, avg_reader_cost: 0.0002 avg_batch_cost: 0.2139, avg_ips: 299.1678.
+Type : metal_nut Train [ Epoch 84/128 ], loss: 0.1334, avg_reader_cost: 0.0002 avg_batch_cost: 0.2135, avg_ips: 299.8217.
+Type : metal_nut Train [ Epoch 85/128 ], loss: 0.2914, avg_reader_cost: 0.0002 avg_batch_cost: 0.2144, avg_ips: 298.5409.
+Type : metal_nut Train [ Epoch 86/128 ], loss: 0.1693, avg_reader_cost: 0.7255 avg_batch_cost: 0.9398, avg_ips: 68.0998.
+Type : metal_nut Train [ Epoch 87/128 ], loss: 0.2909, avg_reader_cost: 0.8362 avg_batch_cost: 1.0529, avg_ips: 60.7850.
+Type : metal_nut Train [ Epoch 88/128 ], loss: 0.1908, avg_reader_cost: 0.8354 avg_batch_cost: 1.0521, avg_ips: 60.8336.
+Type : metal_nut Train [ Epoch 89/128 ], loss: 0.1401, avg_reader_cost: 0.8444 avg_batch_cost: 1.0611, avg_ips: 60.3151.
+Type : metal_nut Train [ Epoch 90/128 ], loss: 0.1939, avg_reader_cost: 0.8345 avg_batch_cost: 1.0482, avg_ips: 61.0599.
+loading images
+loaded 220 images
+using density estimation GaussianDensityPaddle
+Type : metal_nut Val [ Epoch 90/128 ] max_auc: 0.9506 roc_auc : 0.917889.
+Type : metal_nut Train [ Epoch 91/128 ], loss: 0.1610, avg_reader_cost: 5.2715 avg_batch_cost: 5.3773, avg_ips: 11.9019.
+Type : metal_nut Train [ Epoch 92/128 ], loss: 0.1969, avg_reader_cost: 0.0002 avg_batch_cost: 0.0665, avg_ips: 961.9756.
+Type : metal_nut Train [ Epoch 93/128 ], loss: 0.1890, avg_reader_cost: 0.8725 avg_batch_cost: 1.0850, avg_ips: 58.9856.
+Type : metal_nut Train [ Epoch 94/128 ], loss: 0.2175, avg_reader_cost: 0.8311 avg_batch_cost: 1.0486, avg_ips: 61.0328.
+Type : metal_nut Train [ Epoch 95/128 ], loss: 0.1804, avg_reader_cost: 0.8280 avg_batch_cost: 1.0442, avg_ips: 61.2906.
+Type : metal_nut Train [ Epoch 96/128 ], loss: 0.2101, avg_reader_cost: 0.8424 avg_batch_cost: 1.0553, avg_ips: 60.6472.
+Type : metal_nut Train [ Epoch 97/128 ], loss: 0.2032, avg_reader_cost: 0.8408 avg_batch_cost: 1.0572, avg_ips: 60.5381.
+Type : metal_nut Train [ Epoch 98/128 ], loss: 0.1470, avg_reader_cost: 0.8254 avg_batch_cost: 1.0409, avg_ips: 61.4863.
+Type : metal_nut Train [ Epoch 99/128 ], loss: 0.1644, avg_reader_cost: 0.8285 avg_batch_cost: 1.0443, avg_ips: 61.2874.
+Type : metal_nut Train [ Epoch 100/128 ], loss: 0.1610, avg_reader_cost: 0.8283 avg_batch_cost: 1.0446, avg_ips: 61.2657.
+loading images
+loaded 220 images
+using density estimation GaussianDensityPaddle
+Type : metal_nut Val [ Epoch 100/128 ] max_auc: 0.9506 roc_auc : 0.875367.
+Type : metal_nut Train [ Epoch 101/128 ], loss: 0.1450, avg_reader_cost: 5.9524 avg_batch_cost: 6.2878, avg_ips: 10.1785.
+Type : metal_nut Train [ Epoch 102/128 ], loss: 0.1414, avg_reader_cost: 0.0003 avg_batch_cost: 0.2113, avg_ips: 302.8631.
+Type : metal_nut Train [ Epoch 103/128 ], loss: 0.1994, avg_reader_cost: 0.0003 avg_batch_cost: 0.2102, avg_ips: 304.4760.
+Type : metal_nut Train [ Epoch 104/128 ], loss: 0.2167, avg_reader_cost: 0.0004 avg_batch_cost: 0.2112, avg_ips: 303.0132.
+Type : metal_nut Train [ Epoch 105/128 ], loss: 0.1314, avg_reader_cost: 0.0003 avg_batch_cost: 0.2168, avg_ips: 295.2640.
+Type : metal_nut Train [ Epoch 106/128 ], loss: 0.1143, avg_reader_cost: 0.7201 avg_batch_cost: 0.9330, avg_ips: 68.5978.
+Type : metal_nut Train [ Epoch 107/128 ], loss: 0.1981, avg_reader_cost: 0.8245 avg_batch_cost: 1.0407, avg_ips: 61.4941.
+Type : metal_nut Train [ Epoch 108/128 ], loss: 0.1491, avg_reader_cost: 0.8233 avg_batch_cost: 1.0375, avg_ips: 61.6882.
+Type : metal_nut Train [ Epoch 109/128 ], loss: 0.1962, avg_reader_cost: 0.8267 avg_batch_cost: 1.0392, avg_ips: 61.5839.
+Type : metal_nut Train [ Epoch 110/128 ], loss: 0.0949, avg_reader_cost: 0.8348 avg_batch_cost: 1.0492, avg_ips: 60.9985.
+loading images
+loaded 220 images
+using density estimation GaussianDensityPaddle
+Type : metal_nut Val [ Epoch 110/128 ] max_auc: 0.9599 roc_auc : 0.959922.
+Type : metal_nut Train [ Epoch 111/128 ], loss: 0.1034, avg_reader_cost: 6.5075 avg_batch_cost: 6.7249, avg_ips: 9.5169.
+Type : metal_nut Train [ Epoch 112/128 ], loss: 0.1902, avg_reader_cost: 0.0002 avg_batch_cost: 0.2151, avg_ips: 297.5007.
+Type : metal_nut Train [ Epoch 113/128 ], loss: 0.1834, avg_reader_cost: 0.0002 avg_batch_cost: 0.2124, avg_ips: 301.3792.
+Type : metal_nut Train [ Epoch 114/128 ], loss: 0.1953, avg_reader_cost: 0.0002 avg_batch_cost: 0.2120, avg_ips: 301.8398.
+Type : metal_nut Train [ Epoch 115/128 ], loss: 0.1525, avg_reader_cost: 0.0002 avg_batch_cost: 0.2125, avg_ips: 301.2013.
+Type : metal_nut Train [ Epoch 116/128 ], loss: 0.1132, avg_reader_cost: 0.7232 avg_batch_cost: 0.9367, avg_ips: 68.3284.
+Type : metal_nut Train [ Epoch 117/128 ], loss: 0.1409, avg_reader_cost: 0.8337 avg_batch_cost: 1.0494, avg_ips: 60.9851.
+Type : metal_nut Train [ Epoch 118/128 ], loss: 0.1474, avg_reader_cost: 0.8247 avg_batch_cost: 1.0399, avg_ips: 61.5437.
+Type : metal_nut Train [ Epoch 119/128 ], loss: 0.1258, avg_reader_cost: 0.8296 avg_batch_cost: 1.0457, avg_ips: 61.2043.
+Type : metal_nut Train [ Epoch 120/128 ], loss: 0.1102, avg_reader_cost: 0.8333 avg_batch_cost: 1.0481, avg_ips: 61.0603.
+loading images
+loaded 220 images
+using density estimation GaussianDensityPaddle
+Type : metal_nut Val [ Epoch 120/128 ] max_auc: 0.9599 roc_auc : 0.951613.
+Type : metal_nut Train [ Epoch 121/128 ], loss: 0.1622, avg_reader_cost: 6.1034 avg_batch_cost: 6.2933, avg_ips: 10.1695.
+Type : metal_nut Train [ Epoch 122/128 ], loss: 0.1400, avg_reader_cost: 0.0002 avg_batch_cost: 0.1354, avg_ips: 472.6309.
+Type : metal_nut Train [ Epoch 123/128 ], loss: 0.1229, avg_reader_cost: 0.0010 avg_batch_cost: 0.1794, avg_ips: 356.6661.
+Type : metal_nut Train [ Epoch 124/128 ], loss: 0.1390, avg_reader_cost: 0.0005 avg_batch_cost: 0.1121, avg_ips: 571.1186.
+Type : metal_nut Train [ Epoch 125/128 ], loss: 0.1413, avg_reader_cost: 0.0005 avg_batch_cost: 0.1297, avg_ips: 493.5274.
+Type : metal_nut Train [ Epoch 126/128 ], loss: 0.1493, avg_reader_cost: 0.7348 avg_batch_cost: 0.9508, avg_ips: 67.3127.
+Type : metal_nut Train [ Epoch 127/128 ], loss: 0.1913, avg_reader_cost: 0.8295 avg_batch_cost: 1.0443, avg_ips: 61.2829.
+Type : metal_nut Train [ Epoch 128/128 ], loss: 0.1859, avg_reader_cost: 0.8309 avg_batch_cost: 1.0437, avg_ips: 61.3224.

@@ -1,0 +1,176 @@
+Type : grid Train [ Epoch 1/128 ], loss: 1.3599, avg_reader_cost: 0.8791 avg_batch_cost: 0.9687, avg_ips: 66.0680.
+Type : grid Train [ Epoch 2/128 ], loss: 1.2631, avg_reader_cost: 0.8086 avg_batch_cost: 0.8930, avg_ips: 71.6656.
+Type : grid Train [ Epoch 3/128 ], loss: 1.2446, avg_reader_cost: 0.8077 avg_batch_cost: 0.8901, avg_ips: 71.9039.
+Type : grid Train [ Epoch 4/128 ], loss: 1.2064, avg_reader_cost: 0.8104 avg_batch_cost: 0.8939, avg_ips: 71.5955.
+Type : grid Train [ Epoch 5/128 ], loss: 1.1822, avg_reader_cost: 0.8079 avg_batch_cost: 0.8907, avg_ips: 71.8544.
+Type : grid Train [ Epoch 6/128 ], loss: 1.1548, avg_reader_cost: 0.8095 avg_batch_cost: 0.8930, avg_ips: 71.6656.
+Type : grid Train [ Epoch 7/128 ], loss: 1.1129, avg_reader_cost: 0.7714 avg_batch_cost: 0.8432, avg_ips: 75.9038.
+Type : grid Train [ Epoch 8/128 ], loss: 1.1115, avg_reader_cost: 0.5238 avg_batch_cost: 0.5956, avg_ips: 107.4593.
+Type : grid Train [ Epoch 9/128 ], loss: 1.0748, avg_reader_cost: 0.5235 avg_batch_cost: 0.5963, avg_ips: 107.3364.
+Type : grid Train [ Epoch 10/128 ], loss: 1.1145, avg_reader_cost: 0.5205 avg_batch_cost: 0.5914, avg_ips: 108.2155.
+loading images
+loaded 264 images
+using density estimation GaussianDensityPaddle
+Type : grid Val [ Epoch 10/128 ] max_auc: 0.5464 roc_auc : 0.546366.
+Type : grid Train [ Epoch 11/128 ], loss: 1.0795, avg_reader_cost: 5.0962 avg_batch_cost: 5.1684, avg_ips: 12.3830.
+Type : grid Train [ Epoch 12/128 ], loss: 1.0828, avg_reader_cost: 0.0001 avg_batch_cost: 0.0697, avg_ips: 918.3057.
+Type : grid Train [ Epoch 13/128 ], loss: 1.1035, avg_reader_cost: 0.0002 avg_batch_cost: 0.0712, avg_ips: 898.2972.
+Type : grid Train [ Epoch 14/128 ], loss: 1.1291, avg_reader_cost: 0.0001 avg_batch_cost: 0.0710, avg_ips: 901.2861.
+Type : grid Train [ Epoch 15/128 ], loss: 1.0571, avg_reader_cost: 0.0002 avg_batch_cost: 0.0698, avg_ips: 917.3893.
+Type : grid Train [ Epoch 16/128 ], loss: 1.0639, avg_reader_cost: 0.4409 avg_batch_cost: 0.5142, avg_ips: 124.4729.
+Type : grid Train [ Epoch 17/128 ], loss: 1.0302, avg_reader_cost: 0.5218 avg_batch_cost: 0.5940, avg_ips: 107.7521.
+Type : grid Train [ Epoch 18/128 ], loss: 1.0436, avg_reader_cost: 0.5234 avg_batch_cost: 0.5953, avg_ips: 107.5167.
+Type : grid Train [ Epoch 19/128 ], loss: 1.0341, avg_reader_cost: 0.5264 avg_batch_cost: 0.5994, avg_ips: 106.7774.
+Type : grid Train [ Epoch 20/128 ], loss: 1.0038, avg_reader_cost: 0.5232 avg_batch_cost: 0.5960, avg_ips: 107.3838.
+loading images
+loaded 264 images
+using density estimation GaussianDensityPaddle
+Type : grid Val [ Epoch 20/128 ] max_auc: 0.5564 roc_auc : 0.556391.
+Type : grid Train [ Epoch 21/128 ], loss: 0.9702, avg_reader_cost: 5.2895 avg_batch_cost: 5.5435, avg_ips: 11.5451.
+Type : grid Train [ Epoch 22/128 ], loss: 0.9892, avg_reader_cost: 0.0011 avg_batch_cost: 0.2308, avg_ips: 277.2942.
+Type : grid Train [ Epoch 23/128 ], loss: 1.0042, avg_reader_cost: 0.0004 avg_batch_cost: 0.2211, avg_ips: 289.5104.
+Type : grid Train [ Epoch 24/128 ], loss: 0.8977, avg_reader_cost: 0.0002 avg_batch_cost: 0.2222, avg_ips: 288.0849.
+Type : grid Train [ Epoch 25/128 ], loss: 0.8085, avg_reader_cost: 0.0003 avg_batch_cost: 0.2223, avg_ips: 287.8590.
+Type : grid Train [ Epoch 26/128 ], loss: 0.6907, avg_reader_cost: 0.3652 avg_batch_cost: 0.5880, avg_ips: 108.8454.
+Type : grid Train [ Epoch 27/128 ], loss: 0.5663, avg_reader_cost: 0.5146 avg_batch_cost: 0.7418, avg_ips: 86.2794.
+Type : grid Train [ Epoch 28/128 ], loss: 0.5880, avg_reader_cost: 0.5119 avg_batch_cost: 0.7395, avg_ips: 86.5407.
+Type : grid Train [ Epoch 29/128 ], loss: 0.4668, avg_reader_cost: 0.5263 avg_batch_cost: 0.7482, avg_ips: 85.5409.
+Type : grid Train [ Epoch 30/128 ], loss: 0.4444, avg_reader_cost: 0.5130 avg_batch_cost: 0.7349, avg_ips: 87.0893.
+loading images
+loaded 264 images
+using density estimation GaussianDensityPaddle
+Type : grid Val [ Epoch 30/128 ] max_auc: 0.7611 roc_auc : 0.761069.
+Type : grid Train [ Epoch 31/128 ], loss: 0.4212, avg_reader_cost: 5.3816 avg_batch_cost: 5.6026, avg_ips: 11.4233.
+Type : grid Train [ Epoch 32/128 ], loss: 0.4090, avg_reader_cost: 0.0003 avg_batch_cost: 0.2223, avg_ips: 287.9458.
+Type : grid Train [ Epoch 33/128 ], loss: 0.3639, avg_reader_cost: 0.0003 avg_batch_cost: 0.2194, avg_ips: 291.6414.
+Type : grid Train [ Epoch 34/128 ], loss: 0.3643, avg_reader_cost: 0.0002 avg_batch_cost: 0.2193, avg_ips: 291.7967.
+Type : grid Train [ Epoch 35/128 ], loss: 0.3456, avg_reader_cost: 0.0010 avg_batch_cost: 0.2192, avg_ips: 292.0313.
+Type : grid Train [ Epoch 36/128 ], loss: 0.3533, avg_reader_cost: 0.3769 avg_batch_cost: 0.5968, avg_ips: 107.2445.
+Type : grid Train [ Epoch 37/128 ], loss: 0.1949, avg_reader_cost: 0.5164 avg_batch_cost: 0.7363, avg_ips: 86.9209.
+Type : grid Train [ Epoch 38/128 ], loss: 0.2434, avg_reader_cost: 0.5152 avg_batch_cost: 0.7369, avg_ips: 86.8518.
+Type : grid Train [ Epoch 39/128 ], loss: 0.1791, avg_reader_cost: 0.5127 avg_batch_cost: 0.7363, avg_ips: 86.9166.
+Type : grid Train [ Epoch 40/128 ], loss: 0.1108, avg_reader_cost: 0.5102 avg_batch_cost: 0.7312, avg_ips: 87.5282.
+loading images
+loaded 264 images
+using density estimation GaussianDensityPaddle
+Type : grid Val [ Epoch 40/128 ] max_auc: 0.7611 roc_auc : 0.680033.
+Type : grid Train [ Epoch 41/128 ], loss: 0.0986, avg_reader_cost: 4.8591 avg_batch_cost: 5.1746, avg_ips: 12.3681.
+Type : grid Train [ Epoch 42/128 ], loss: 0.1427, avg_reader_cost: 0.0003 avg_batch_cost: 0.2216, avg_ips: 288.8254.
+Type : grid Train [ Epoch 43/128 ], loss: 0.1193, avg_reader_cost: 0.0003 avg_batch_cost: 0.2210, avg_ips: 289.6159.
+Type : grid Train [ Epoch 44/128 ], loss: 0.0759, avg_reader_cost: 0.0010 avg_batch_cost: 0.2193, avg_ips: 291.8306.
+Type : grid Train [ Epoch 45/128 ], loss: 0.1069, avg_reader_cost: 0.0010 avg_batch_cost: 0.2189, avg_ips: 292.3847.
+Type : grid Train [ Epoch 46/128 ], loss: 0.1670, avg_reader_cost: 0.3714 avg_batch_cost: 0.4380, avg_ips: 146.1068.
+Type : grid Train [ Epoch 47/128 ], loss: 0.0898, avg_reader_cost: 0.5613 avg_batch_cost: 0.7851, avg_ips: 81.5223.
+Type : grid Train [ Epoch 48/128 ], loss: 0.0709, avg_reader_cost: 0.5098 avg_batch_cost: 0.7318, avg_ips: 87.4561.
+Type : grid Train [ Epoch 49/128 ], loss: 0.0812, avg_reader_cost: 0.5235 avg_batch_cost: 0.7455, avg_ips: 85.8434.
+Type : grid Train [ Epoch 50/128 ], loss: 0.0789, avg_reader_cost: 0.5104 avg_batch_cost: 0.7354, avg_ips: 87.0286.
+loading images
+loaded 264 images
+using density estimation GaussianDensityPaddle
+Type : grid Val [ Epoch 50/128 ] max_auc: 0.9223 roc_auc : 0.922306.
+Type : grid Train [ Epoch 51/128 ], loss: 0.0447, avg_reader_cost: 5.4306 avg_batch_cost: 5.6511, avg_ips: 11.3252.
+Type : grid Train [ Epoch 52/128 ], loss: 0.0586, avg_reader_cost: 0.0010 avg_batch_cost: 0.2228, avg_ips: 287.2491.
+Type : grid Train [ Epoch 53/128 ], loss: 0.0655, avg_reader_cost: 0.0003 avg_batch_cost: 0.2223, avg_ips: 287.8847.
+Type : grid Train [ Epoch 54/128 ], loss: 0.1034, avg_reader_cost: 0.0004 avg_batch_cost: 0.2237, avg_ips: 286.1209.
+Type : grid Train [ Epoch 55/128 ], loss: 0.0637, avg_reader_cost: 0.0004 avg_batch_cost: 0.2203, avg_ips: 290.4649.
+Type : grid Train [ Epoch 56/128 ], loss: 0.0939, avg_reader_cost: 0.3734 avg_batch_cost: 0.5962, avg_ips: 107.3478.
+Type : grid Train [ Epoch 57/128 ], loss: 0.0824, avg_reader_cost: 0.5148 avg_batch_cost: 0.7365, avg_ips: 86.9026.
+Type : grid Train [ Epoch 58/128 ], loss: 0.1453, avg_reader_cost: 0.5134 avg_batch_cost: 0.7354, avg_ips: 87.0229.
+Type : grid Train [ Epoch 59/128 ], loss: 0.0694, avg_reader_cost: 0.5028 avg_batch_cost: 0.7251, avg_ips: 88.2648.
+Type : grid Train [ Epoch 60/128 ], loss: 0.0592, avg_reader_cost: 0.5027 avg_batch_cost: 0.7228, avg_ips: 88.5478.
+loading images
+loaded 264 images
+using density estimation GaussianDensityPaddle
+Type : grid Val [ Epoch 60/128 ] max_auc: 0.9432 roc_auc : 0.943191.
+Type : grid Train [ Epoch 61/128 ], loss: 0.1341, avg_reader_cost: 5.2766 avg_batch_cost: 5.4957, avg_ips: 11.6454.
+Type : grid Train [ Epoch 62/128 ], loss: 0.0922, avg_reader_cost: 0.0010 avg_batch_cost: 0.2226, avg_ips: 287.5639.
+Type : grid Train [ Epoch 63/128 ], loss: 0.0494, avg_reader_cost: 0.0011 avg_batch_cost: 0.2243, avg_ips: 285.3107.
+Type : grid Train [ Epoch 64/128 ], loss: 0.0509, avg_reader_cost: 0.0012 avg_batch_cost: 0.2223, avg_ips: 287.9591.
+Type : grid Train [ Epoch 65/128 ], loss: 0.0333, avg_reader_cost: 0.0003 avg_batch_cost: 0.2214, avg_ips: 289.0885.
+Type : grid Train [ Epoch 66/128 ], loss: 0.0788, avg_reader_cost: 0.3739 avg_batch_cost: 0.5973, avg_ips: 107.1429.
+Type : grid Train [ Epoch 67/128 ], loss: 0.0727, avg_reader_cost: 0.5050 avg_batch_cost: 0.7275, avg_ips: 87.9744.
+Type : grid Train [ Epoch 68/128 ], loss: 0.0420, avg_reader_cost: 0.5057 avg_batch_cost: 0.7281, avg_ips: 87.8961.
+Type : grid Train [ Epoch 69/128 ], loss: 0.0317, avg_reader_cost: 0.5063 avg_batch_cost: 0.7258, avg_ips: 88.1741.
+Type : grid Train [ Epoch 70/128 ], loss: 0.0570, avg_reader_cost: 0.5096 avg_batch_cost: 0.7289, avg_ips: 87.8016.
+loading images
+loaded 264 images
+using density estimation GaussianDensityPaddle
+Type : grid Val [ Epoch 70/128 ] max_auc: 0.9766 roc_auc : 0.976608.
+Type : grid Train [ Epoch 71/128 ], loss: 0.0229, avg_reader_cost: 5.3718 avg_batch_cost: 5.6051, avg_ips: 11.4182.
+Type : grid Train [ Epoch 72/128 ], loss: 0.0667, avg_reader_cost: 0.0010 avg_batch_cost: 0.2255, avg_ips: 283.8019.
+Type : grid Train [ Epoch 73/128 ], loss: 0.0599, avg_reader_cost: 0.0002 avg_batch_cost: 0.2180, avg_ips: 293.5123.
+Type : grid Train [ Epoch 74/128 ], loss: 0.0820, avg_reader_cost: 0.0002 avg_batch_cost: 0.2169, avg_ips: 295.0706.
+Type : grid Train [ Epoch 75/128 ], loss: 0.0345, avg_reader_cost: 0.0011 avg_batch_cost: 0.2207, avg_ips: 290.0306.
+Type : grid Train [ Epoch 76/128 ], loss: 0.0795, avg_reader_cost: 0.3837 avg_batch_cost: 0.6098, avg_ips: 104.9448.
+Type : grid Train [ Epoch 77/128 ], loss: 0.0174, avg_reader_cost: 0.5081 avg_batch_cost: 0.7280, avg_ips: 87.9112.
+Type : grid Train [ Epoch 78/128 ], loss: 0.0171, avg_reader_cost: 0.5024 avg_batch_cost: 0.7225, avg_ips: 88.5759.
+Type : grid Train [ Epoch 79/128 ], loss: 0.0818, avg_reader_cost: 0.5094 avg_batch_cost: 0.7280, avg_ips: 87.9143.
+Type : grid Train [ Epoch 80/128 ], loss: 0.0226, avg_reader_cost: 0.5113 avg_batch_cost: 0.7333, avg_ips: 87.2725.
+loading images
+loaded 264 images
+using density estimation GaussianDensityPaddle
+Type : grid Val [ Epoch 80/128 ] max_auc: 0.9799 roc_auc : 0.979950.
+Type : grid Train [ Epoch 81/128 ], loss: 0.0347, avg_reader_cost: 5.4446 avg_batch_cost: 5.6666, avg_ips: 11.2942.
+Type : grid Train [ Epoch 82/128 ], loss: 0.0852, avg_reader_cost: 0.0002 avg_batch_cost: 0.2214, avg_ips: 289.1016.
+Type : grid Train [ Epoch 83/128 ], loss: 0.0356, avg_reader_cost: 0.0003 avg_batch_cost: 0.2217, avg_ips: 288.7126.
+Type : grid Train [ Epoch 84/128 ], loss: 0.0431, avg_reader_cost: 0.0003 avg_batch_cost: 0.2214, avg_ips: 289.1259.
+Type : grid Train [ Epoch 85/128 ], loss: 0.0176, avg_reader_cost: 0.0003 avg_batch_cost: 0.2202, avg_ips: 290.6309.
+Type : grid Train [ Epoch 86/128 ], loss: 0.0369, avg_reader_cost: 0.3765 avg_batch_cost: 0.5976, avg_ips: 107.0877.
+Type : grid Train [ Epoch 87/128 ], loss: 0.0437, avg_reader_cost: 0.5163 avg_batch_cost: 0.7330, avg_ips: 87.3137.
+Type : grid Train [ Epoch 88/128 ], loss: 0.0149, avg_reader_cost: 0.5272 avg_batch_cost: 0.7485, avg_ips: 85.4994.
+Type : grid Train [ Epoch 89/128 ], loss: 0.0434, avg_reader_cost: 0.5109 avg_batch_cost: 0.7298, avg_ips: 87.6982.
+Type : grid Train [ Epoch 90/128 ], loss: 0.0469, avg_reader_cost: 0.5102 avg_batch_cost: 0.7342, avg_ips: 87.1652.
+loading images
+loaded 264 images
+using density estimation GaussianDensityPaddle
+Type : grid Val [ Epoch 90/128 ] max_auc: 0.9841 roc_auc : 0.984127.
+Type : grid Train [ Epoch 91/128 ], loss: 0.0268, avg_reader_cost: 4.7551 avg_batch_cost: 4.8225, avg_ips: 13.2711.
+Type : grid Train [ Epoch 92/128 ], loss: 0.0396, avg_reader_cost: 0.0003 avg_batch_cost: 0.0674, avg_ips: 950.2073.
+Type : grid Train [ Epoch 93/128 ], loss: 0.0169, avg_reader_cost: 0.5625 avg_batch_cost: 0.7843, avg_ips: 81.6022.
+Type : grid Train [ Epoch 94/128 ], loss: 0.0347, avg_reader_cost: 0.5199 avg_batch_cost: 0.7416, avg_ips: 86.2970.
+Type : grid Train [ Epoch 95/128 ], loss: 0.0118, avg_reader_cost: 0.5145 avg_batch_cost: 0.7333, avg_ips: 87.2818.
+Type : grid Train [ Epoch 96/128 ], loss: 0.0321, avg_reader_cost: 0.5126 avg_batch_cost: 0.7307, avg_ips: 87.5931.
+Type : grid Train [ Epoch 97/128 ], loss: 0.1164, avg_reader_cost: 0.5114 avg_batch_cost: 0.7309, avg_ips: 87.5638.
+Type : grid Train [ Epoch 98/128 ], loss: 0.0670, avg_reader_cost: 0.5121 avg_batch_cost: 0.7337, avg_ips: 87.2272.
+Type : grid Train [ Epoch 99/128 ], loss: 0.0569, avg_reader_cost: 0.5125 avg_batch_cost: 0.7352, avg_ips: 87.0516.
+Type : grid Train [ Epoch 100/128 ], loss: 0.0347, avg_reader_cost: 0.5128 avg_batch_cost: 0.7319, avg_ips: 87.4412.
+loading images
+loaded 264 images
+using density estimation GaussianDensityPaddle
+Type : grid Val [ Epoch 100/128 ] max_auc: 0.9841 roc_auc : 0.959064.
+Type : grid Train [ Epoch 101/128 ], loss: 0.0513, avg_reader_cost: 4.8854 avg_batch_cost: 5.1837, avg_ips: 12.3463.
+Type : grid Train [ Epoch 102/128 ], loss: 0.0377, avg_reader_cost: 0.0011 avg_batch_cost: 0.2211, avg_ips: 289.4891.
+Type : grid Train [ Epoch 103/128 ], loss: 0.1061, avg_reader_cost: 0.0010 avg_batch_cost: 0.2211, avg_ips: 289.4436.
+Type : grid Train [ Epoch 104/128 ], loss: 0.0156, avg_reader_cost: 0.0005 avg_batch_cost: 0.2220, avg_ips: 288.3104.
+Type : grid Train [ Epoch 105/128 ], loss: 0.0083, avg_reader_cost: 0.0005 avg_batch_cost: 0.2223, avg_ips: 287.8714.
+Type : grid Train [ Epoch 106/128 ], loss: 0.0432, avg_reader_cost: 0.3817 avg_batch_cost: 0.6024, avg_ips: 106.2377.
+Type : grid Train [ Epoch 107/128 ], loss: 0.0238, avg_reader_cost: 0.5075 avg_batch_cost: 0.7249, avg_ips: 88.2869.
+Type : grid Train [ Epoch 108/128 ], loss: 0.0348, avg_reader_cost: 0.5130 avg_batch_cost: 0.7340, avg_ips: 87.1908.
+Type : grid Train [ Epoch 109/128 ], loss: 0.0137, avg_reader_cost: 0.5157 avg_batch_cost: 0.7368, avg_ips: 86.8565.
+Type : grid Train [ Epoch 110/128 ], loss: 0.0590, avg_reader_cost: 0.5386 avg_batch_cost: 0.7628, avg_ips: 83.9016.
+loading images
+loaded 264 images
+using density estimation GaussianDensityPaddle
+Type : grid Val [ Epoch 110/128 ] max_auc: 0.9841 roc_auc : 0.965748.
+Type : grid Train [ Epoch 111/128 ], loss: 0.0065, avg_reader_cost: 4.9494 avg_batch_cost: 5.2704, avg_ips: 12.1433.
+Type : grid Train [ Epoch 112/128 ], loss: 0.0127, avg_reader_cost: 0.0003 avg_batch_cost: 0.2241, avg_ips: 285.5459.
+Type : grid Train [ Epoch 113/128 ], loss: 0.0254, avg_reader_cost: 0.0020 avg_batch_cost: 0.2239, avg_ips: 285.8814.
+Type : grid Train [ Epoch 114/128 ], loss: 0.0166, avg_reader_cost: 0.0004 avg_batch_cost: 0.2225, avg_ips: 287.5775.
+Type : grid Train [ Epoch 115/128 ], loss: 0.0608, avg_reader_cost: 0.0003 avg_batch_cost: 0.2237, avg_ips: 286.1206.
+Type : grid Train [ Epoch 116/128 ], loss: 0.0066, avg_reader_cost: 0.3695 avg_batch_cost: 0.5918, avg_ips: 108.1372.
+Type : grid Train [ Epoch 117/128 ], loss: 0.0128, avg_reader_cost: 0.5194 avg_batch_cost: 0.7403, avg_ips: 86.4570.
+Type : grid Train [ Epoch 118/128 ], loss: 0.0141, avg_reader_cost: 0.5138 avg_batch_cost: 0.7340, avg_ips: 87.1913.
+Type : grid Train [ Epoch 119/128 ], loss: 0.0055, avg_reader_cost: 0.5107 avg_batch_cost: 0.7316, avg_ips: 87.4781.
+Type : grid Train [ Epoch 120/128 ], loss: 0.0216, avg_reader_cost: 0.5104 avg_batch_cost: 0.7321, avg_ips: 87.4233.
+loading images
+loaded 264 images
+using density estimation GaussianDensityPaddle
+Type : grid Val [ Epoch 120/128 ] max_auc: 0.9841 roc_auc : 0.978279.
+Type : grid Train [ Epoch 121/128 ], loss: 0.0576, avg_reader_cost: 4.9538 avg_batch_cost: 5.3031, avg_ips: 12.0685.
+Type : grid Train [ Epoch 122/128 ], loss: 0.0170, avg_reader_cost: 0.0010 avg_batch_cost: 0.2230, avg_ips: 286.9884.
+Type : grid Train [ Epoch 123/128 ], loss: 0.0041, avg_reader_cost: 0.0010 avg_batch_cost: 0.2190, avg_ips: 292.3003.
+Type : grid Train [ Epoch 124/128 ], loss: 0.0371, avg_reader_cost: 0.0010 avg_batch_cost: 0.2170, avg_ips: 294.9176.
+Type : grid Train [ Epoch 125/128 ], loss: 0.0225, avg_reader_cost: 0.0002 avg_batch_cost: 0.2186, avg_ips: 292.8153.
+Type : grid Train [ Epoch 126/128 ], loss: 0.0235, avg_reader_cost: 0.3692 avg_batch_cost: 0.5869, avg_ips: 109.0531.
+Type : grid Train [ Epoch 127/128 ], loss: 0.0312, avg_reader_cost: 0.5098 avg_batch_cost: 0.7317, avg_ips: 87.4713.
+Type : grid Train [ Epoch 128/128 ], loss: 0.0689, avg_reader_cost: 0.5069 avg_batch_cost: 0.7295, avg_ips: 87.7331.

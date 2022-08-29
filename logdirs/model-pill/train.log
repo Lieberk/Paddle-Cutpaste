@@ -1,0 +1,176 @@
+Type : pill Train [ Epoch 1/128 ], loss: 1.4063, avg_reader_cost: 1.1773 avg_batch_cost: 1.2621, avg_ips: 50.7084.
+Type : pill Train [ Epoch 2/128 ], loss: 1.3112, avg_reader_cost: 1.0873 avg_batch_cost: 1.1648, avg_ips: 54.9436.
+Type : pill Train [ Epoch 3/128 ], loss: 1.0829, avg_reader_cost: 1.1563 avg_batch_cost: 1.2309, avg_ips: 51.9951.
+Type : pill Train [ Epoch 4/128 ], loss: 0.8052, avg_reader_cost: 1.1526 avg_batch_cost: 1.2209, avg_ips: 52.4214.
+Type : pill Train [ Epoch 5/128 ], loss: 0.8055, avg_reader_cost: 0.8424 avg_batch_cost: 0.9097, avg_ips: 70.3526.
+Type : pill Train [ Epoch 6/128 ], loss: 0.6614, avg_reader_cost: 0.8317 avg_batch_cost: 0.8970, avg_ips: 71.3509.
+Type : pill Train [ Epoch 7/128 ], loss: 0.6224, avg_reader_cost: 0.8349 avg_batch_cost: 0.9009, avg_ips: 71.0382.
+Type : pill Train [ Epoch 8/128 ], loss: 0.5745, avg_reader_cost: 0.8314 avg_batch_cost: 0.8991, avg_ips: 71.1819.
+Type : pill Train [ Epoch 9/128 ], loss: 0.7132, avg_reader_cost: 0.8305 avg_batch_cost: 0.8976, avg_ips: 71.3003.
+Type : pill Train [ Epoch 10/128 ], loss: 0.5984, avg_reader_cost: 0.8327 avg_batch_cost: 0.8991, avg_ips: 71.1790.
+loading images
+loaded 267 images
+using density estimation GaussianDensityPaddle
+Type : pill Val [ Epoch 10/128 ] max_auc: 0.8303 roc_auc : 0.830333.
+Type : pill Train [ Epoch 11/128 ], loss: 0.5980, avg_reader_cost: 10.1442 avg_batch_cost: 10.2123, avg_ips: 6.2669.
+Type : pill Train [ Epoch 12/128 ], loss: 0.5567, avg_reader_cost: 0.0001 avg_batch_cost: 0.0648, avg_ips: 987.3670.
+Type : pill Train [ Epoch 13/128 ], loss: 0.6305, avg_reader_cost: 0.0004 avg_batch_cost: 0.0657, avg_ips: 973.8837.
+Type : pill Train [ Epoch 14/128 ], loss: 0.5272, avg_reader_cost: 0.0001 avg_batch_cost: 0.0655, avg_ips: 977.6327.
+Type : pill Train [ Epoch 15/128 ], loss: 0.6656, avg_reader_cost: 0.0010 avg_batch_cost: 0.0666, avg_ips: 960.6434.
+Type : pill Train [ Epoch 16/128 ], loss: 0.5469, avg_reader_cost: 0.7772 avg_batch_cost: 0.8439, avg_ips: 75.8427.
+Type : pill Train [ Epoch 17/128 ], loss: 0.5655, avg_reader_cost: 0.8352 avg_batch_cost: 0.9019, avg_ips: 70.9580.
+Type : pill Train [ Epoch 18/128 ], loss: 0.5133, avg_reader_cost: 0.8394 avg_batch_cost: 0.9056, avg_ips: 70.6697.
+Type : pill Train [ Epoch 19/128 ], loss: 0.5214, avg_reader_cost: 0.8317 avg_batch_cost: 0.8982, avg_ips: 71.2556.
+Type : pill Train [ Epoch 20/128 ], loss: 0.4915, avg_reader_cost: 0.8334 avg_batch_cost: 0.8983, avg_ips: 71.2452.
+loading images
+loaded 267 images
+using density estimation GaussianDensityPaddle
+Type : pill Val [ Epoch 20/128 ] max_auc: 0.8489 roc_auc : 0.848882.
+Type : pill Train [ Epoch 21/128 ], loss: 0.5236, avg_reader_cost: 10.0703 avg_batch_cost: 10.3122, avg_ips: 6.2062.
+Type : pill Train [ Epoch 22/128 ], loss: 0.5133, avg_reader_cost: 0.0002 avg_batch_cost: 0.2187, avg_ips: 292.6119.
+Type : pill Train [ Epoch 23/128 ], loss: 0.4662, avg_reader_cost: 0.0006 avg_batch_cost: 0.2197, avg_ips: 291.3331.
+Type : pill Train [ Epoch 24/128 ], loss: 0.4426, avg_reader_cost: 0.0003 avg_batch_cost: 0.2197, avg_ips: 291.2480.
+Type : pill Train [ Epoch 25/128 ], loss: 0.3292, avg_reader_cost: 0.0003 avg_batch_cost: 0.2219, avg_ips: 288.4266.
+Type : pill Train [ Epoch 26/128 ], loss: 0.4272, avg_reader_cost: 0.6784 avg_batch_cost: 0.8967, avg_ips: 71.3705.
+Type : pill Train [ Epoch 27/128 ], loss: 0.4406, avg_reader_cost: 0.8217 avg_batch_cost: 1.0359, avg_ips: 61.7829.
+Type : pill Train [ Epoch 28/128 ], loss: 0.4158, avg_reader_cost: 0.8212 avg_batch_cost: 1.0362, avg_ips: 61.7614.
+Type : pill Train [ Epoch 29/128 ], loss: 0.3691, avg_reader_cost: 0.8219 avg_batch_cost: 0.9503, avg_ips: 67.3497.
+Type : pill Train [ Epoch 30/128 ], loss: 0.3758, avg_reader_cost: 0.8165 avg_batch_cost: 1.0265, avg_ips: 62.3454.
+loading images
+loaded 267 images
+using density estimation GaussianDensityPaddle
+Type : pill Val [ Epoch 30/128 ] max_auc: 0.8489 roc_auc : 0.786961.
+Type : pill Train [ Epoch 31/128 ], loss: 0.3615, avg_reader_cost: 10.1307 avg_batch_cost: 10.3474, avg_ips: 6.1851.
+Type : pill Train [ Epoch 32/128 ], loss: 0.3401, avg_reader_cost: 0.0011 avg_batch_cost: 0.2161, avg_ips: 296.1020.
+Type : pill Train [ Epoch 33/128 ], loss: 0.3901, avg_reader_cost: 0.0010 avg_batch_cost: 0.2157, avg_ips: 296.7328.
+Type : pill Train [ Epoch 34/128 ], loss: 0.3553, avg_reader_cost: 0.0002 avg_batch_cost: 0.2122, avg_ips: 301.5929.
+Type : pill Train [ Epoch 35/128 ], loss: 0.3370, avg_reader_cost: 0.0002 avg_batch_cost: 0.2139, avg_ips: 299.2138.
+Type : pill Train [ Epoch 36/128 ], loss: 0.3348, avg_reader_cost: 0.7189 avg_batch_cost: 0.9321, avg_ips: 68.6638.
+Type : pill Train [ Epoch 37/128 ], loss: 0.3377, avg_reader_cost: 0.8168 avg_batch_cost: 1.0304, avg_ips: 62.1134.
+Type : pill Train [ Epoch 38/128 ], loss: 0.3090, avg_reader_cost: 0.8135 avg_batch_cost: 1.0242, avg_ips: 62.4886.
+Type : pill Train [ Epoch 39/128 ], loss: 0.3431, avg_reader_cost: 0.8183 avg_batch_cost: 1.0298, avg_ips: 62.1454.
+Type : pill Train [ Epoch 40/128 ], loss: 0.2702, avg_reader_cost: 0.8260 avg_batch_cost: 1.0423, avg_ips: 61.4011.
+loading images
+loaded 267 images
+using density estimation GaussianDensityPaddle
+Type : pill Val [ Epoch 40/128 ] max_auc: 0.8890 roc_auc : 0.888980.
+Type : pill Train [ Epoch 41/128 ], loss: 0.3993, avg_reader_cost: 10.2766 avg_batch_cost: 10.4919, avg_ips: 6.0999.
+Type : pill Train [ Epoch 42/128 ], loss: 0.3011, avg_reader_cost: 0.0010 avg_batch_cost: 0.2131, avg_ips: 300.3332.
+Type : pill Train [ Epoch 43/128 ], loss: 0.3079, avg_reader_cost: 0.0003 avg_batch_cost: 0.2183, avg_ips: 293.1587.
+Type : pill Train [ Epoch 44/128 ], loss: 0.3217, avg_reader_cost: 0.0010 avg_batch_cost: 0.2146, avg_ips: 298.2288.
+Type : pill Train [ Epoch 45/128 ], loss: 0.3154, avg_reader_cost: 0.0002 avg_batch_cost: 0.2131, avg_ips: 300.2667.
+Type : pill Train [ Epoch 46/128 ], loss: 0.3260, avg_reader_cost: 0.7110 avg_batch_cost: 0.7781, avg_ips: 82.2535.
+Type : pill Train [ Epoch 47/128 ], loss: 0.2720, avg_reader_cost: 0.8547 avg_batch_cost: 1.0685, avg_ips: 59.8972.
+Type : pill Train [ Epoch 48/128 ], loss: 0.3335, avg_reader_cost: 0.8248 avg_batch_cost: 1.0387, avg_ips: 61.6128.
+Type : pill Train [ Epoch 49/128 ], loss: 0.3295, avg_reader_cost: 0.8186 avg_batch_cost: 1.0328, avg_ips: 61.9687.
+Type : pill Train [ Epoch 50/128 ], loss: 0.3627, avg_reader_cost: 0.8268 avg_batch_cost: 1.0450, avg_ips: 61.2469.
+loading images
+loaded 267 images
+using density estimation GaussianDensityPaddle
+Type : pill Val [ Epoch 50/128 ] max_auc: 0.8890 roc_auc : 0.863612.
+Type : pill Train [ Epoch 51/128 ], loss: 0.3403, avg_reader_cost: 10.3308 avg_batch_cost: 10.6002, avg_ips: 6.0376.
+Type : pill Train [ Epoch 52/128 ], loss: 0.3087, avg_reader_cost: 0.0006 avg_batch_cost: 0.0990, avg_ips: 646.2843.
+Type : pill Train [ Epoch 53/128 ], loss: 0.3771, avg_reader_cost: 0.0008 avg_batch_cost: 0.2119, avg_ips: 302.0796.
+Type : pill Train [ Epoch 54/128 ], loss: 0.3164, avg_reader_cost: 0.0004 avg_batch_cost: 0.2181, avg_ips: 293.4215.
+Type : pill Train [ Epoch 55/128 ], loss: 0.2867, avg_reader_cost: 0.0003 avg_batch_cost: 0.2148, avg_ips: 297.9613.
+Type : pill Train [ Epoch 56/128 ], loss: 0.3011, avg_reader_cost: 0.7027 avg_batch_cost: 0.9160, avg_ips: 69.8664.
+Type : pill Train [ Epoch 57/128 ], loss: 0.2951, avg_reader_cost: 0.8243 avg_batch_cost: 1.0403, avg_ips: 61.5202.
+Type : pill Train [ Epoch 58/128 ], loss: 0.2796, avg_reader_cost: 0.8217 avg_batch_cost: 1.0382, avg_ips: 61.6435.
+Type : pill Train [ Epoch 59/128 ], loss: 0.2513, avg_reader_cost: 0.8203 avg_batch_cost: 1.0329, avg_ips: 61.9644.
+Type : pill Train [ Epoch 60/128 ], loss: 0.2904, avg_reader_cost: 0.8276 avg_batch_cost: 1.0395, avg_ips: 61.5676.
+loading images
+loaded 267 images
+using density estimation GaussianDensityPaddle
+Type : pill Val [ Epoch 60/128 ] max_auc: 0.8890 roc_auc : 0.879160.
+Type : pill Train [ Epoch 61/128 ], loss: 0.2827, avg_reader_cost: 9.9848 avg_batch_cost: 10.2507, avg_ips: 6.2435.
+Type : pill Train [ Epoch 62/128 ], loss: 0.2601, avg_reader_cost: 0.0002 avg_batch_cost: 0.2144, avg_ips: 298.4822.
+Type : pill Train [ Epoch 63/128 ], loss: 0.2670, avg_reader_cost: 0.0003 avg_batch_cost: 0.1867, avg_ips: 342.7218.
+Type : pill Train [ Epoch 64/128 ], loss: 0.2887, avg_reader_cost: 0.0002 avg_batch_cost: 0.1203, avg_ips: 531.9209.
+Type : pill Train [ Epoch 65/128 ], loss: 0.3050, avg_reader_cost: 0.0004 avg_batch_cost: 0.1251, avg_ips: 511.6565.
+Type : pill Train [ Epoch 66/128 ], loss: 0.2902, avg_reader_cost: 0.7077 avg_batch_cost: 0.9228, avg_ips: 69.3540.
+Type : pill Train [ Epoch 67/128 ], loss: 0.3097, avg_reader_cost: 0.8150 avg_batch_cost: 1.0304, avg_ips: 62.1119.
+Type : pill Train [ Epoch 68/128 ], loss: 0.2755, avg_reader_cost: 0.8150 avg_batch_cost: 1.0287, avg_ips: 62.2128.
+Type : pill Train [ Epoch 69/128 ], loss: 0.3052, avg_reader_cost: 0.8180 avg_batch_cost: 1.0285, avg_ips: 62.2277.
+Type : pill Train [ Epoch 70/128 ], loss: 0.2378, avg_reader_cost: 0.8129 avg_batch_cost: 1.0260, avg_ips: 62.3784.
+loading images
+loaded 267 images
+using density estimation GaussianDensityPaddle
+Type : pill Val [ Epoch 70/128 ] max_auc: 0.9171 roc_auc : 0.917076.
+Type : pill Train [ Epoch 71/128 ], loss: 0.2871, avg_reader_cost: 10.1175 avg_batch_cost: 10.3332, avg_ips: 6.1936.
+Type : pill Train [ Epoch 72/128 ], loss: 0.2846, avg_reader_cost: 0.0002 avg_batch_cost: 0.2139, avg_ips: 299.1881.
+Type : pill Train [ Epoch 73/128 ], loss: 0.2833, avg_reader_cost: 0.0003 avg_batch_cost: 0.2098, avg_ips: 305.0365.
+Type : pill Train [ Epoch 74/128 ], loss: 0.3208, avg_reader_cost: 0.0002 avg_batch_cost: 0.2146, avg_ips: 298.2722.
+Type : pill Train [ Epoch 75/128 ], loss: 0.3114, avg_reader_cost: 0.0003 avg_batch_cost: 0.2115, avg_ips: 302.6023.
+Type : pill Train [ Epoch 76/128 ], loss: 0.2546, avg_reader_cost: 0.7169 avg_batch_cost: 0.9354, avg_ips: 68.4171.
+Type : pill Train [ Epoch 77/128 ], loss: 0.2963, avg_reader_cost: 0.8496 avg_batch_cost: 1.0659, avg_ips: 60.0436.
+Type : pill Train [ Epoch 78/128 ], loss: 0.2685, avg_reader_cost: 0.8525 avg_batch_cost: 1.0701, avg_ips: 59.8076.
+Type : pill Train [ Epoch 79/128 ], loss: 0.3186, avg_reader_cost: 0.8391 avg_batch_cost: 1.0534, avg_ips: 60.7572.
+Type : pill Train [ Epoch 80/128 ], loss: 0.2135, avg_reader_cost: 0.8188 avg_batch_cost: 1.0294, avg_ips: 62.1696.
+loading images
+loaded 267 images
+using density estimation GaussianDensityPaddle
+Type : pill Val [ Epoch 80/128 ] max_auc: 0.9171 roc_auc : 0.910256.
+Type : pill Train [ Epoch 81/128 ], loss: 0.2514, avg_reader_cost: 9.7339 avg_batch_cost: 10.0261, avg_ips: 6.3833.
+Type : pill Train [ Epoch 82/128 ], loss: 0.2115, avg_reader_cost: 0.0002 avg_batch_cost: 0.2159, avg_ips: 296.4140.
+Type : pill Train [ Epoch 83/128 ], loss: 0.2223, avg_reader_cost: 0.0002 avg_batch_cost: 0.2118, avg_ips: 302.1843.
+Type : pill Train [ Epoch 84/128 ], loss: 0.2626, avg_reader_cost: 0.0002 avg_batch_cost: 0.2137, avg_ips: 299.4504.
+Type : pill Train [ Epoch 85/128 ], loss: 0.2233, avg_reader_cost: 0.0002 avg_batch_cost: 0.2138, avg_ips: 299.2842.
+Type : pill Train [ Epoch 86/128 ], loss: 0.3269, avg_reader_cost: 0.7157 avg_batch_cost: 0.9290, avg_ips: 68.8908.
+Type : pill Train [ Epoch 87/128 ], loss: 0.2823, avg_reader_cost: 0.8292 avg_batch_cost: 1.0399, avg_ips: 61.5467.
+Type : pill Train [ Epoch 88/128 ], loss: 0.2400, avg_reader_cost: 0.8224 avg_batch_cost: 1.0352, avg_ips: 61.8255.
+Type : pill Train [ Epoch 89/128 ], loss: 0.2622, avg_reader_cost: 0.8197 avg_batch_cost: 1.0361, avg_ips: 61.7687.
+Type : pill Train [ Epoch 90/128 ], loss: 0.2801, avg_reader_cost: 0.8201 avg_batch_cost: 1.0379, avg_ips: 61.6642.
+loading images
+loaded 267 images
+using density estimation GaussianDensityPaddle
+Type : pill Val [ Epoch 90/128 ] max_auc: 0.9171 roc_auc : 0.900436.
+Type : pill Train [ Epoch 91/128 ], loss: 0.2317, avg_reader_cost: 9.2714 avg_batch_cost: 9.3737, avg_ips: 6.8276.
+Type : pill Train [ Epoch 92/128 ], loss: 0.2252, avg_reader_cost: 0.0003 avg_batch_cost: 0.0677, avg_ips: 945.1986.
+Type : pill Train [ Epoch 93/128 ], loss: 0.2560, avg_reader_cost: 0.8717 avg_batch_cost: 1.0872, avg_ips: 58.8652.
+Type : pill Train [ Epoch 94/128 ], loss: 0.2681, avg_reader_cost: 0.8243 avg_batch_cost: 1.0413, avg_ips: 61.4607.
+Type : pill Train [ Epoch 95/128 ], loss: 0.1957, avg_reader_cost: 0.8200 avg_batch_cost: 1.0348, avg_ips: 61.8479.
+Type : pill Train [ Epoch 96/128 ], loss: 0.2613, avg_reader_cost: 0.8169 avg_batch_cost: 1.0283, avg_ips: 62.2414.
+Type : pill Train [ Epoch 97/128 ], loss: 0.2568, avg_reader_cost: 0.8233 avg_batch_cost: 1.0384, avg_ips: 61.6333.
+Type : pill Train [ Epoch 98/128 ], loss: 0.2390, avg_reader_cost: 0.8143 avg_batch_cost: 1.0326, avg_ips: 61.9812.
+Type : pill Train [ Epoch 99/128 ], loss: 0.2307, avg_reader_cost: 0.8342 avg_batch_cost: 1.0510, avg_ips: 60.8915.
+Type : pill Train [ Epoch 100/128 ], loss: 0.2836, avg_reader_cost: 0.8208 avg_batch_cost: 1.0378, avg_ips: 61.6679.
+loading images
+loaded 267 images
+using density estimation GaussianDensityPaddle
+Type : pill Val [ Epoch 100/128 ] max_auc: 0.9171 roc_auc : 0.883524.
+Type : pill Train [ Epoch 101/128 ], loss: 0.2087, avg_reader_cost: 10.1258 avg_batch_cost: 10.4732, avg_ips: 6.1108.
+Type : pill Train [ Epoch 102/128 ], loss: 0.2823, avg_reader_cost: 0.0003 avg_batch_cost: 0.2151, avg_ips: 297.6006.
+Type : pill Train [ Epoch 103/128 ], loss: 0.2581, avg_reader_cost: 0.0002 avg_batch_cost: 0.2108, avg_ips: 303.6250.
+Type : pill Train [ Epoch 104/128 ], loss: 0.2743, avg_reader_cost: 0.0002 avg_batch_cost: 0.2118, avg_ips: 302.2149.
+Type : pill Train [ Epoch 105/128 ], loss: 0.2463, avg_reader_cost: 0.0002 avg_batch_cost: 0.1331, avg_ips: 480.8672.
+Type : pill Train [ Epoch 106/128 ], loss: 0.2709, avg_reader_cost: 0.7107 avg_batch_cost: 0.9221, avg_ips: 69.4083.
+Type : pill Train [ Epoch 107/128 ], loss: 0.2752, avg_reader_cost: 0.8389 avg_batch_cost: 1.0543, avg_ips: 60.7034.
+Type : pill Train [ Epoch 108/128 ], loss: 0.2571, avg_reader_cost: 0.8213 avg_batch_cost: 1.0339, avg_ips: 61.9008.
+Type : pill Train [ Epoch 109/128 ], loss: 0.2223, avg_reader_cost: 0.8232 avg_batch_cost: 1.0387, avg_ips: 61.6140.
+Type : pill Train [ Epoch 110/128 ], loss: 0.3072, avg_reader_cost: 0.8167 avg_batch_cost: 1.0321, avg_ips: 62.0118.
+loading images
+loaded 267 images
+using density estimation GaussianDensityPaddle
+Type : pill Val [ Epoch 110/128 ] max_auc: 0.9171 roc_auc : 0.874795.
+Type : pill Train [ Epoch 111/128 ], loss: 0.2162, avg_reader_cost: 9.9231 avg_batch_cost: 10.2876, avg_ips: 6.2211.
+Type : pill Train [ Epoch 112/128 ], loss: 0.3048, avg_reader_cost: 0.0010 avg_batch_cost: 0.2195, avg_ips: 291.6372.
+Type : pill Train [ Epoch 113/128 ], loss: 0.2900, avg_reader_cost: 0.0010 avg_batch_cost: 0.2144, avg_ips: 298.4855.
+Type : pill Train [ Epoch 114/128 ], loss: 0.2762, avg_reader_cost: 0.0005 avg_batch_cost: 0.2128, avg_ips: 300.7350.
+Type : pill Train [ Epoch 115/128 ], loss: 0.2185, avg_reader_cost: 0.0005 avg_batch_cost: 0.2154, avg_ips: 297.1463.
+Type : pill Train [ Epoch 116/128 ], loss: 0.2513, avg_reader_cost: 0.7382 avg_batch_cost: 0.9496, avg_ips: 67.3947.
+Type : pill Train [ Epoch 117/128 ], loss: 0.2545, avg_reader_cost: 0.8199 avg_batch_cost: 1.0360, avg_ips: 61.7776.
+Type : pill Train [ Epoch 118/128 ], loss: 0.2237, avg_reader_cost: 0.8185 avg_batch_cost: 1.0316, avg_ips: 62.0425.
+Type : pill Train [ Epoch 119/128 ], loss: 0.2391, avg_reader_cost: 0.8238 avg_batch_cost: 1.0389, avg_ips: 61.6014.
+Type : pill Train [ Epoch 120/128 ], loss: 0.2403, avg_reader_cost: 0.8188 avg_batch_cost: 1.0334, avg_ips: 61.9288.
+loading images
+loaded 267 images
+using density estimation GaussianDensityPaddle
+Type : pill Val [ Epoch 120/128 ] max_auc: 0.9171 roc_auc : 0.876159.
+Type : pill Train [ Epoch 121/128 ], loss: 0.2554, avg_reader_cost: 9.6771 avg_batch_cost: 9.9563, avg_ips: 6.4281.
+Type : pill Train [ Epoch 122/128 ], loss: 0.2693, avg_reader_cost: 0.0005 avg_batch_cost: 0.2139, avg_ips: 299.1601.
+Type : pill Train [ Epoch 123/128 ], loss: 0.3054, avg_reader_cost: 0.0003 avg_batch_cost: 0.2180, avg_ips: 293.6050.
+Type : pill Train [ Epoch 124/128 ], loss: 0.2497, avg_reader_cost: 0.0002 avg_batch_cost: 0.2149, avg_ips: 297.7528.
+Type : pill Train [ Epoch 125/128 ], loss: 0.2579, avg_reader_cost: 0.0002 avg_batch_cost: 0.2132, avg_ips: 300.1714.
+Type : pill Train [ Epoch 126/128 ], loss: 0.1977, avg_reader_cost: 0.7059 avg_batch_cost: 0.9224, avg_ips: 69.3858.
+Type : pill Train [ Epoch 127/128 ], loss: 0.3030, avg_reader_cost: 0.8242 avg_batch_cost: 1.0366, avg_ips: 61.7409.
+Type : pill Train [ Epoch 128/128 ], loss: 0.2482, avg_reader_cost: 0.8229 avg_batch_cost: 1.0409, avg_ips: 61.4827.
